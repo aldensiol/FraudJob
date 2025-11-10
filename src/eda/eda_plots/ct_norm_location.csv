@@ -1,0 +1,3107 @@
+location,0,1
+(missing),0.9450867052023122,0.05491329479768786
+"AE, , ",0.8333333333333334,0.16666666666666666
+"AE, , Abudhabi",1.0,0.0
+"AE, , Dubai",1.0,0.0
+"AE, , Media City | Dubai",1.0,0.0
+"AE, AZ, ",1.0,0.0
+"AE, AZ, Abudhabi",1.0,0.0
+"AE, DU, ",1.0,0.0
+"AE, DU, Dubai",1.0,0.0
+"AE, DU, Dubai Internet City",1.0,0.0
+"AE, DU, Dubayy",1.0,0.0
+"AL, 11, ",1.0,0.0
+"AM, , Yerevan",1.0,0.0
+"AM, ER, Yerevan",1.0,0.0
+"AR, , ",1.0,0.0
+"AT, , ",1.0,0.0
+"AT, , Salzburg",1.0,0.0
+"AT, 5, ",1.0,0.0
+"AT, 5, Salzburg",1.0,0.0
+"AT, 9, ",1.0,0.0
+"AT, 9, Vienna",1.0,0.0
+AU,1.0,0.0
+"AU, , ",0.5555555555555556,0.4444444444444444
+"AU, , Australia",1.0,0.0
+"AU, , Australia ",1.0,0.0
+"AU, , Melbourne",1.0,0.0
+"AU, , Sydney",1.0,0.0
+"AU, , Work from home",1.0,0.0
+"AU, ACT, ",1.0,0.0
+"AU, ACT, Canberra",1.0,0.0
+"AU, NSW, ",0.75,0.25
+"AU, NSW, 2010",1.0,0.0
+"AU, NSW, Albury",1.0,0.0
+"AU, NSW, Artarmon",1.0,0.0
+"AU, NSW, Darlinghurst",1.0,0.0
+"AU, NSW, Newcastle ",1.0,0.0
+"AU, NSW, North Sydney",1.0,0.0
+"AU, NSW, South West Sydney and M5 corridor",1.0,0.0
+"AU, NSW, Surry Hills",1.0,0.0
+"AU, NSW, Sydney",0.6219512195121951,0.3780487804878049
+"AU, NSW, Toronto",1.0,0.0
+"AU, NSW, sydney",1.0,0.0
+"AU, NT, ",1.0,0.0
+"AU, QLD, ",0.5,0.5
+"AU, QLD, Brisbane",1.0,0.0
+"AU, QLD, Gold coast",0.0,1.0
+"AU, SA, Adelaide",1.0,0.0
+"AU, TAS, Hobart",1.0,0.0
+"AU, TAS, Launceston",1.0,0.0
+"AU, VIC, ",1.0,0.0
+"AU, VIC, Carlton",1.0,0.0
+"AU, VIC, Clayton",1.0,0.0
+"AU, VIC, Melbourne",0.9782608695652174,0.021739130434782608
+"AU, VIC, Melbourne ",1.0,0.0
+"AU, VIC, caulfield",1.0,0.0
+"AU, WA, Como",1.0,0.0
+"AU, WA, Perth",1.0,0.0
+"BD, , Dhaka",1.0,0.0
+BE,1.0,0.0
+"BE, , ",1.0,0.0
+"BE, , Antwerpen",1.0,0.0
+"BE, , Brussels",1.0,0.0
+"BE, , Ghent",1.0,0.0
+"BE, , Valanciennes",1.0,0.0
+"BE, , Work from home",1.0,0.0
+"BE, BRU, ",1.0,0.0
+"BE, BRU, Auderghem",1.0,0.0
+"BE, BRU, Br",1.0,0.0
+"BE, BRU, Brussels",1.0,0.0
+"BE, BRU, Bruxelles",1.0,0.0
+"BE, VAN, Mechelen",1.0,0.0
+"BE, VBR, ",1.0,0.0
+"BE, VBR, Leuven",1.0,0.0
+"BE, VLI, Lommel",1.0,0.0
+"BE, VOV, ",1.0,0.0
+"BE, VOV, Gent",1.0,0.0
+"BE, VOV, Ghent",1.0,0.0
+"BE, VOV, Lebbeke-Wieze",1.0,0.0
+"BG, , ",1.0,0.0
+"BG, , Sofia",1.0,0.0
+"BG, 22, Sofia",1.0,0.0
+"BG, 23, ",1.0,0.0
+"BG, 23, Sofia",1.0,0.0
+BH,0.0,1.0
+"BH, , ",0.6,0.4
+"BH, 13, ",0.3333333333333333,0.6666666666666666
+"BR, , ",0.8571428571428571,0.14285714285714285
+"BR, , São Paulo",1.0,0.0
+"BR, RJ, ",1.0,0.0
+"BR, RJ, Rio De Janeiro",1.0,0.0
+"BR, RJ, Rio de Janeiro",1.0,0.0
+"BR, RS, Santa Maria",1.0,0.0
+"BR, SP, ",1.0,0.0
+"BR, SP, SAO PAULO",1.0,0.0
+"BR, SP, Sao Paulo",1.0,0.0
+"BR, SP, São Paulo",1.0,0.0
+"BY, , Minsk",1.0,0.0
+"BY, HM, Minsk",1.0,0.0
+"BY, MI, Minsk",1.0,0.0
+CA,1.0,0.0
+"CA, , ",1.0,0.0
+"CA, , London",1.0,0.0
+"CA, , Ottawa",1.0,0.0
+"CA, , Quesnel ",1.0,0.0
+"CA, , Rio Rancho, NM",1.0,0.0
+"CA, , Toronto",1.0,0.0
+"CA, AB, ",0.5,0.5
+"CA, AB, Calgary",0.7777777777777778,0.2222222222222222
+"CA, AB, EDMONTON",1.0,0.0
+"CA, AB, Edmondton",1.0,0.0
+"CA, AB, Edmonton",1.0,0.0
+"CA, AB, Edmonton ",1.0,0.0
+"CA, AB, Fort Saskatchewan",1.0,0.0
+"CA, AB, Red Deer",1.0,0.0
+"CA, AB, Toronto",0.0,1.0
+"CA, BC, ",1.0,0.0
+"CA, BC,  Vancouver",1.0,0.0
+"CA, BC, Burnaby",1.0,0.0
+"CA, BC, Kamloops",1.0,0.0
+"CA, BC, Kelowna",1.0,0.0
+"CA, BC, Langley",1.0,0.0
+"CA, BC, Lower Mainland",1.0,0.0
+"CA, BC, Port Coquitlam",1.0,0.0
+"CA, BC, Prince Rupert",1.0,0.0
+"CA, BC, Quesnel",1.0,0.0
+"CA, BC, Surrey",1.0,0.0
+"CA, BC, Vancouver",1.0,0.0
+"CA, BC, Victoria",1.0,0.0
+"CA, BC, vancouver",1.0,0.0
+"CA, MB, Winnipeg",1.0,0.0
+"CA, NB, Fredericton",1.0,0.0
+"CA, NB, Moncton",1.0,0.0
+"CA, NS, Antigonish",1.0,0.0
+"CA, NS, Halifax",1.0,0.0
+"CA, NT, Yellowknife",1.0,0.0
+"CA, ON, ",0.9,0.1
+"CA, ON,  Ottawa",1.0,0.0
+"CA, ON, Brampton",1.0,0.0
+"CA, ON, Burlington",1.0,0.0
+"CA, ON, Cambridge",1.0,0.0
+"CA, ON, Concord",1.0,0.0
+"CA, ON, Cornwall",1.0,0.0
+"CA, ON, Etobicoke",1.0,0.0
+"CA, ON, GTA",1.0,0.0
+"CA, ON, Georgetown",1.0,0.0
+"CA, ON, Greater Toronto Area",1.0,0.0
+"CA, ON, Grey-Bruce/Huron Perth",1.0,0.0
+"CA, ON, Hamilton",1.0,0.0
+"CA, ON, Kanata",1.0,0.0
+"CA, ON, Kitchener",1.0,0.0
+"CA, ON, LONDON",1.0,0.0
+"CA, ON, London",1.0,0.0
+"CA, ON, London ",1.0,0.0
+"CA, ON, London/Sarnia/Chatham",1.0,0.0
+"CA, ON, London/Sarnia/Chatham/Windsor/Kitchener",1.0,0.0
+"CA, ON, Markham",1.0,0.0
+"CA, ON, Markhan",1.0,0.0
+"CA, ON, Mississauga",1.0,0.0
+"CA, ON, North York",1.0,0.0
+"CA, ON, North York ",1.0,0.0
+"CA, ON, Oakvile",1.0,0.0
+"CA, ON, Ottawa",1.0,0.0
+"CA, ON, Peterborough",1.0,0.0
+"CA, ON, Sault Ste. Marie",1.0,0.0
+"CA, ON, Scarborough",1.0,0.0
+"CA, ON, St. Catharines",1.0,0.0
+"CA, ON, Strathroy",1.0,0.0
+"CA, ON, Toronto",0.9512195121951219,0.04878048780487805
+"CA, ON, Toronto and surrounding areas",1.0,0.0
+"CA, ON, Waterloo",1.0,0.0
+"CA, ON, Windsor ",1.0,0.0
+"CA, ON, welland ",1.0,0.0
+"CA, QC, ",1.0,0.0
+"CA, QC, Boisbriand",1.0,0.0
+"CA, QC, Laval",1.0,0.0
+"CA, QC, Montreal",0.95,0.05
+"CA, QC, Montreal ",1.0,0.0
+"CA, QC, Montréal",1.0,0.0
+"CA, QC, Québec city",1.0,0.0
+"CA, QC, Sainta Foy",1.0,0.0
+"CA, SK, Regina",1.0,0.0
+"CA, SK, Saskatoon",1.0,0.0
+"CH, , Work from home",1.0,0.0
+"CH, BS, Basel",1.0,0.0
+"CH, GE, ",1.0,0.0
+"CH, VS, Martigny",1.0,0.0
+"CH, ZH, ",1.0,0.0
+"CH, ZH, Zurich",1.0,0.0
+"CH, ZH, Zürich",1.0,0.0
+"CL, , Santiago",1.0,0.0
+"CL, RM, Santiago",1.0,0.0
+"CM, , ",1.0,0.0
+CN,1.0,0.0
+"CN, , ",1.0,0.0
+"CN, 11, ",1.0,0.0
+"CN, 11, Beijing",1.0,0.0
+"CN, 31, ",1.0,0.0
+"CN, 31, Shanghai",1.0,0.0
+"CN, 44, ",1.0,0.0
+"CN, 44, Guangzhou",1.0,0.0
+"CN, 51, Chengdu",1.0,0.0
+"CO, , Bogota",1.0,0.0
+"CY, , Nicosia",1.0,0.0
+"CY, 01, ",1.0,0.0
+"CY, 01, Nicosia",1.0,0.0
+"CY, 02, Limassol",1.0,0.0
+"CZ, PR, ",1.0,0.0
+"CZ, PR, Prague",1.0,0.0
+"CZ, PR, Praha",1.0,0.0
+DE,1.0,0.0
+"DE, , ",1.0,0.0
+"DE, , Berlin",1.0,0.0
+"DE, , Frankfurt",1.0,0.0
+"DE, , Germany",1.0,0.0
+"DE, BE, ",1.0,0.0
+"DE, BE,  Kreuzberg",1.0,0.0
+"DE, BE, 10969",1.0,0.0
+"DE, BE, Berlin",1.0,0.0
+"DE, BE, Berlin ",1.0,0.0
+"DE, BE, Berlin/Malaysia",1.0,0.0
+"DE, BE, berlin",1.0,0.0
+"DE, BW, Heidelberg",1.0,0.0
+"DE, BY, ",1.0,0.0
+"DE, BY, Munich",1.0,0.0
+"DE, BY, Munich / Italy / Spain",1.0,0.0
+"DE, BY, Munich, partially in the UK",1.0,0.0
+"DE, BY, München",1.0,0.0
+"DE, BY, München ",1.0,0.0
+"DE, BY, Wiepoldsried",1.0,0.0
+"DE, HE, Frankfurt",1.0,0.0
+"DE, HH, ",1.0,0.0
+"DE, HH, Hamburg",1.0,0.0
+"DE, NW, Bonn",1.0,0.0
+"DE, NW, Dortmund",1.0,0.0
+"DE, NW, Düsseldorf",1.0,0.0
+"DE, RP, Ludwigshafen",1.0,0.0
+"DE, SN, Leipzig",1.0,0.0
+"DK, , ",1.0,0.0
+"DK, , Ballerup ",1.0,0.0
+"DK, , Copenhagen",1.0,0.0
+"DK, , Copenhagen ",1.0,0.0
+"DK, , Copenhagn",1.0,0.0
+"DK, , Work from home",1.0,0.0
+"DK, 82, Aarhus C",1.0,0.0
+"DK, 84, Copenhagen",1.0,0.0
+"DK, 84, Copenhagen Ø",1.0,0.0
+"DK, 84, København Ø",1.0,0.0
+"DK, 84, Valby ",1.0,0.0
+"DK, 84, copenhagen",1.0,0.0
+"EE, , ",1.0,0.0
+"EE, , Tallinn",1.0,0.0
+"EE, 37, ",1.0,0.0
+"EE, 37, Estonia",1.0,0.0
+"EE, 37, Tallinn",0.9833333333333333,0.016666666666666666
+"EG, , ",1.0,0.0
+"EG, , Alexandria",1.0,0.0
+"EG, ALX, ",0.6666666666666666,0.3333333333333333
+"EG, ALX, Alexandria",1.0,0.0
+"EG, ALX, Alexandria ",1.0,0.0
+"EG, C, ",1.0,0.0
+"EG, C, Cairo",1.0,0.0
+"EG, C, Cairo, Nasr City",1.0,0.0
+"EG, C, Maad",1.0,0.0
+"EG, C, Maadi",1.0,0.0
+"EG, C, Nasrcity",1.0,0.0
+"ES, , ",1.0,0.0
+"ES, , Barcelona",1.0,0.0
+"ES, , Chamberi | Madrid",1.0,0.0
+"ES, , Lleida",1.0,0.0
+"ES, , Madrid",1.0,0.0
+"ES, , Spain",1.0,0.0
+"ES, , Work from home",1.0,0.0
+"ES, AN, Malaga",1.0,0.0
+"ES, CN, ",1.0,0.0
+"ES, CT, ",1.0,0.0
+"ES, CT, Barcelona",0.9333333333333333,0.06666666666666667
+"ES, MD, Madrid",1.0,0.0
+"ES, VC, Valencia",1.0,0.0
+"FI, , ",1.0,0.0
+"FI, , Helsinki",1.0,0.0
+"FI, , Oulu",1.0,0.0
+"FI, , Turku",1.0,0.0
+"FI, , Work from home",1.0,0.0
+"FI, ES, Helsinki",1.0,0.0
+"FI, LS, Turku",1.0,0.0
+"FI, OL, Oulu",1.0,0.0
+"FR, , France ",1.0,0.0
+"FR, , Paris",1.0,0.0
+"FR, , Valenciennes",1.0,0.0
+"FR, , Work from home",1.0,0.0
+"FR, E, paris",1.0,0.0
+"FR, J, Paris",1.0,0.0
+"FR, K, Montpellier",1.0,0.0
+"FR, O, Lille",1.0,0.0
+"FR, U, Aix en Provence",1.0,0.0
+"FR, U, Antibes",1.0,0.0
+GB,0.8,0.2
+"GB, , ",0.9927536231884058,0.007246376811594203
+"GB, , Aberdeen",1.0,0.0
+"GB, , Angel, London",1.0,0.0
+"GB, , Ayrshire",1.0,0.0
+"GB, , BARNSLEY",1.0,0.0
+"GB, , Bangor",1.0,0.0
+"GB, , Barnsley",1.0,0.0
+"GB, , Basingstoke",1.0,0.0
+"GB, , Batley",1.0,0.0
+"GB, , Bedford",1.0,0.0
+"GB, , Belfast",1.0,0.0
+"GB, , Birmingham",1.0,0.0
+"GB, , Birmingham or London",1.0,0.0
+"GB, , Birstall",1.0,0.0
+"GB, , Blackpool",1.0,0.0
+"GB, , Bodelwyddan",1.0,0.0
+"GB, , Bournemouth",1.0,0.0
+"GB, , Bradford",1.0,0.0
+"GB, , Brighouse",1.0,0.0
+"GB, , Bristol",1.0,0.0
+"GB, , Bury St Edmunds",1.0,0.0
+"GB, , Cambridge",1.0,0.0
+"GB, , Cantebury",1.0,0.0
+"GB, , Carlisle",1.0,0.0
+"GB, , Central Lodon",1.0,0.0
+"GB, , Central London",1.0,0.0
+"GB, , Cheadle",1.0,0.0
+"GB, , Chelmorton",1.0,0.0
+"GB, , Chelmsford",1.0,0.0
+"GB, , Cheltenham",1.0,0.0
+"GB, , Chester",1.0,0.0
+"GB, , Chichester",1.0,0.0
+"GB, , Colchester",1.0,0.0
+"GB, , Cork",1.0,0.0
+"GB, , Cornwall",1.0,0.0
+"GB, , Coventry",1.0,0.0
+"GB, , Crigglestone",1.0,0.0
+"GB, , Croydon",1.0,0.0
+"GB, , Dewsbury",1.0,0.0
+"GB, , Doncaster",1.0,0.0
+"GB, , Dundee",1.0,0.0
+"GB, , Durham",1.0,0.0
+"GB, , Edinburgh",1.0,0.0
+"GB, , Essex",1.0,0.0
+"GB, , Falkirk",1.0,0.0
+"GB, , Fife",1.0,0.0
+"GB, , Gateshead",1.0,0.0
+"GB, , Gatwick",1.0,0.0
+"GB, , Glasgow",1.0,0.0
+"GB, , Glasgow / Birmingham / London / Remote",1.0,0.0
+"GB, , Gloucester",1.0,0.0
+"GB, , Grange Moore, Wakefield",1.0,0.0
+"GB, , Greenwich",1.0,0.0
+"GB, , Hanley",1.0,0.0
+"GB, , Hartlepool",1.0,0.0
+"GB, , Heathrow",1.0,0.0
+"GB, , Hemel Hempstead",1.0,0.0
+"GB, , Hertfordshire",1.0,0.0
+"GB, , High Wycombe",1.0,0.0
+"GB, , Huddersfield",1.0,0.0
+"GB, , Huddersfield/Wakefield",1.0,0.0
+"GB, , Hull",1.0,0.0
+"GB, , Kent",1.0,0.0
+"GB, , LONDON",1.0,0.0
+"GB, , Launceston",1.0,0.0
+"GB, , Leeds",1.0,0.0
+"GB, , Leicester",1.0,0.0
+"GB, , Leighton Buzzard",1.0,0.0
+"GB, , Lincoln",1.0,0.0
+"GB, , Liverpool",1.0,0.0
+"GB, , Liversedge",1.0,0.0
+"GB, , London",0.994413407821229,0.00558659217877095
+"GB, , London ",1.0,0.0
+"GB, , Luton",1.0,0.0
+"GB, , Madrid, Spain | London",1.0,0.0
+"GB, , Malton",1.0,0.0
+"GB, , Manchester",1.0,0.0
+"GB, , Mansfield",1.0,0.0
+"GB, , Middlesex",1.0,0.0
+"GB, , Milton Keynes",1.0,0.0
+"GB, , Mirfield",1.0,0.0
+"GB, , Newcastle",1.0,0.0
+"GB, , North West",1.0,0.0
+"GB, , North West London",1.0,0.0
+"GB, , Norwich",1.0,0.0
+"GB, , Nottingham",1.0,0.0
+"GB, , Nuneaton",1.0,0.0
+"GB, , Ossett",1.0,0.0
+"GB, , Oxford",1.0,0.0
+"GB, , Peterborough",1.0,0.0
+"GB, , Pontefract",1.0,0.0
+"GB, , Poole",1.0,0.0
+"GB, , Portsmouth",1.0,0.0
+"GB, , Preston",1.0,0.0
+"GB, , Reading",1.0,0.0
+"GB, , Salford",1.0,0.0
+"GB, , Scunthorpe",1.0,0.0
+"GB, , See the Requirements section for areas and locations available",1.0,0.0
+"GB, , Sheffield",1.0,0.0
+"GB, , Shoreditch",1.0,0.0
+"GB, , Shrewsbury",1.0,0.0
+"GB, , Silvertown",1.0,0.0
+"GB, , Skipton",1.0,0.0
+"GB, , Soho, London",1.0,0.0
+"GB, , South Yorkshire",1.0,0.0
+"GB, , Southampton",1.0,0.0
+"GB, , Southport",1.0,0.0
+"GB, , Stirling",1.0,0.0
+"GB, , Stockholm, Sweden",1.0,0.0
+"GB, , Sunderland",1.0,0.0
+"GB, , Tamworth",1.0,0.0
+"GB, , Teddington",1.0,0.0
+"GB, , Telford",1.0,0.0
+"GB, , Thirsk",1.0,0.0
+"GB, , Twickenham",1.0,0.0
+"GB, , United Kingdom ",1.0,0.0
+"GB, , Urmston",1.0,0.0
+"GB, , Uxbridge",1.0,0.0
+"GB, , Various",1.0,0.0
+"GB, , Various in West Yorkshire",1.0,0.0
+"GB, , Wakefield",1.0,0.0
+"GB, , Watford",1.0,0.0
+"GB, , Welwyn Garden City, Hertfordshire, UK",1.0,0.0
+"GB, , West Bromwich",1.0,0.0
+"GB, , West Lothian",1.0,0.0
+"GB, , West Yorkshire",1.0,0.0
+"GB, , Wirral",1.0,0.0
+"GB, , Wolverhampton",1.0,0.0
+"GB, , Work from home",1.0,0.0
+"GB, , lo",1.0,0.0
+"GB, , london",1.0,0.0
+"GB, , wigan",1.0,0.0
+"GB, ABD, ",0.0,1.0
+"GB, ABD, Aberdeen",1.0,0.0
+"GB, ABD, Aberdeenshire",1.0,0.0
+"GB, ABD, Ackerman",0.0,1.0
+"GB, ABD, Insch",1.0,0.0
+"GB, ABE, ",0.5,0.5
+"GB, ABE,  AB10",1.0,0.0
+"GB, ABE,  Aberdeen ",1.0,0.0
+"GB, ABE, Aberdeen",1.0,0.0
+"GB, ABE, Aberdeen ",1.0,0.0
+"GB, ABE, Altens",1.0,0.0
+"GB, ABE, Scotland",0.0,1.0
+"GB, AGB, ",0.0,1.0
+"GB, ANS, ",0.0,1.0
+"GB, ANS, Dundee",1.0,0.0
+"GB, ANT, All",0.0,1.0
+"GB, ANT, Belfast",1.0,0.0
+"GB, ANT, Belfast/Telecommute",1.0,0.0
+"GB, ARM, ",0.0,1.0
+"GB, BAS, Bath",1.0,0.0
+"GB, BDF, Bedfordshire",1.0,0.0
+"GB, BEN, ",1.0,0.0
+"GB, BEN, London",1.0,0.0
+"GB, BIR, ",1.0,0.0
+"GB, BIR, Birmingham",1.0,0.0
+"GB, BIR, Birmingham / Solihull",1.0,0.0
+"GB, BIR, Central Birmingham",1.0,0.0
+"GB, BIR, Midlands",1.0,0.0
+"GB, BIR, solihull",1.0,0.0
+"GB, BKM, Bletchley",1.0,0.0
+"GB, BKM, Marlow",1.0,0.0
+"GB, BKM, Milton Keynes",1.0,0.0
+"GB, BMH, ",1.0,0.0
+"GB, BNH, ",1.0,0.0
+"GB, BNH, Brighton",1.0,0.0
+"GB, BPL, ",1.0,0.0
+"GB, BRC, Bracknell",1.0,0.0
+"GB, BRD, ",1.0,0.0
+"GB, BRD, Bradford",1.0,0.0
+"GB, BRY, kent",1.0,0.0
+"GB, BST, ",1.0,0.0
+"GB, BST, Avonmouth",1.0,0.0
+"GB, BST, Bristol",1.0,0.0
+"GB, BST, Clevedon",1.0,0.0
+"GB, BST, bristol",1.0,0.0
+"GB, CAM, Cambridge",1.0,0.0
+"GB, CAM, Huntingdon",1.0,0.0
+"GB, CAM, Peterborough",1.0,0.0
+"GB, CBF, Luton",1.0,0.0
+"GB, CHE, Knutsford",1.0,0.0
+"GB, CHE, Macclesfield",1.0,0.0
+"GB, CHW, Chester",1.0,0.0
+"GB, CHW, Chester/North Wales",1.0,0.0
+"GB, CHW, Crewe",1.0,0.0
+"GB, CHW, Nantwich",1.0,0.0
+"GB, CHW, Runcorn",1.0,0.0
+"GB, CHW, Warrington",1.0,0.0
+"GB, CMA, ",1.0,0.0
+"GB, CMA, Penrith",1.0,0.0
+"GB, CMD, London",1.0,0.0
+"GB, CON, Launceston",1.0,0.0
+"GB, CRF, Cardiff",1.0,0.0
+"GB, CRY, CR0 4XY",1.0,0.0
+"GB, CRY, London",1.0,0.0
+"GB, CRY, New Adington",1.0,0.0
+"GB, DBY, Hathersage",1.0,0.0
+"GB, DBY, chesterfield",1.0,0.0
+"GB, DER, ",1.0,0.0
+"GB, DNC, Doncaster",1.0,0.0
+"GB, DND, Dundee",1.0,0.0
+"GB, DOR, Bournemouth",1.0,0.0
+"GB, DOR, Corfe Castle",1.0,0.0
+"GB, DUD, Birmingham",1.0,0.0
+"GB, DUR, Co. Durham ",1.0,0.0
+"GB, DUR, Consett",1.0,0.0
+"GB, DUR, Durham",1.0,0.0
+"GB, DUR, Houghton le Spring ",1.0,0.0
+"GB, DUR, Langley Moor",1.0,0.0
+"GB, EAW, London",0.5,0.5
+"GB, EAW, london",0.0,1.0
+"GB, EDH, ",1.0,0.0
+"GB, EDH, Edinburg",1.0,0.0
+"GB, EDH, Edinburgh",1.0,0.0
+"GB, EDH, Edinburgh ",1.0,0.0
+"GB, EDH, Edinburgh Central, South and South East",1.0,0.0
+"GB, EDH, Edinburgh South and South East",1.0,0.0
+"GB, EDH, Edinburgh, East & Midlothian",1.0,0.0
+"GB, EDH, Hermiston Gait",1.0,0.0
+"GB, ENF, ",1.0,0.0
+"GB, ENG, Birmingham",1.0,0.0
+"GB, ENG, Lon",1.0,0.0
+"GB, ENG, London",1.0,0.0
+"GB, ENG, Nr. West Drayton",1.0,0.0
+"GB, ERY, Hessle",1.0,0.0
+"GB, ERY, Wakefield",1.0,0.0
+"GB, ESS, Billericay",1.0,0.0
+"GB, ESS, Braintree",1.0,0.0
+"GB, ESS, Brentwood",1.0,0.0
+"GB, ESS, Chelmsford",1.0,0.0
+"GB, ESS, Colchester",1.0,0.0
+"GB, ESS, Colchester ",1.0,0.0
+"GB, ESS, Essex",1.0,0.0
+"GB, ESS, Harlow",1.0,0.0
+"GB, ESS, Ingatestone",1.0,0.0
+"GB, ESS, Nr Stansted",1.0,0.0
+"GB, ESS, Wethersfield",1.0,0.0
+"GB, ESS, coggeshall",1.0,0.0
+"GB, ESX, Hastings",1.0,0.0
+"GB, ESX, St Leonards on Sea",1.0,0.0
+"GB, ESX, eastbourne",1.0,0.0
+"GB, FIF, Edinburgh",1.0,0.0
+"GB, GBN, London",1.0,0.0
+"GB, GLG, ",1.0,0.0
+"GB, GLG, Glasgow",1.0,0.0
+"GB, GLS, Gloucester",1.0,0.0
+"GB, HAM, Basingstoke",1.0,0.0
+"GB, HAM, Southampton",1.0,0.0
+"GB, HCK, London",1.0,0.0
+"GB, HEF, Hemel Hempstead",1.0,0.0
+"GB, HEF, potters Bar",1.0,0.0
+"GB, HMF, London",1.0,0.0
+"GB, HNS, ",1.0,0.0
+"GB, HNS, London",1.0,0.0
+"GB, HRT, Berkhamstead",1.0,0.0
+"GB, HRT, Bushey",1.0,0.0
+"GB, HRT, Hatfield",1.0,0.0
+"GB, HRT, Hemel Hempstead",1.0,0.0
+"GB, HRT, bishops stortford",1.0,0.0
+"GB, HRY, London",1.0,0.0
+"GB, IOW, East Cowes",1.0,0.0
+"GB, ISL, London",1.0,0.0
+"GB, KEN, ",1.0,0.0
+"GB, KEN, Canterbury",1.0,0.0
+"GB, KEN, Sevenoaks",1.0,0.0
+"GB, KEN, Sidcup",1.0,0.0
+"GB, KIR, Batley",1.0,0.0
+"GB, KIR, Dewsbury",1.0,0.0
+"GB, KIR, Elland",1.0,0.0
+"GB, KIR, West Yorkshire",1.0,0.0
+"GB, KTT, ",1.0,0.0
+"GB, KTT, Kingston",1.0,0.0
+"GB, KTT, Kingston upon Thames",1.0,0.0
+"GB, LAN, Burnley",1.0,0.0
+"GB, LAN, Earby",1.0,0.0
+"GB, LAN, Manchester",1.0,0.0
+"GB, LAN, Preston",1.0,0.0
+"GB, LAN, Wigan",1.0,0.0
+"GB, LCE, Leicester",1.0,0.0
+"GB, LDS, ",1.0,0.0
+"GB, LDS,  ",1.0,0.0
+"GB, LDS, Dewsbury",1.0,0.0
+"GB, LDS, Elland",1.0,0.0
+"GB, LDS, Harrogate",1.0,0.0
+"GB, LDS, Heckmondwike",1.0,0.0
+"GB, LDS, Horsforth",1.0,0.0
+"GB, LDS, LS12 4QQ",1.0,0.0
+"GB, LDS, Leeds",1.0,0.0
+"GB, LDS, Meanwood",1.0,0.0
+"GB, LDS, Mirfield",1.0,0.0
+"GB, LDS, leeds",1.0,0.0
+"GB, LEC, Hinckley",1.0,0.0
+"GB, LEC, LE10 3EN",1.0,0.0
+"GB, LEC, Leicester",1.0,0.0
+"GB, LEC, Melton Mowbray",1.0,0.0
+"GB, LIN, Immingham",0.0,1.0
+"GB, LIN, grimsby",1.0,0.0
+"GB, LIV, ",1.0,0.0
+"GB, LIV,  merseyside ",1.0,0.0
+"GB, LIV, City",1.0,0.0
+"GB, LIV, Liverpool",1.0,0.0
+"GB, LIV, Merseyside ",1.0,0.0
+"GB, LIV, liverpool",1.0,0.0
+"GB, LND, ",0.9847328244274809,0.015267175572519083
+"GB, LND, Battersea",1.0,0.0
+"GB, LND, Bermondsey",1.0,0.0
+"GB, LND, Bishopsgate",1.0,0.0
+"GB, LND, Camden",1.0,0.0
+"GB, LND, Camden,",1.0,0.0
+"GB, LND, Camden, London",1.0,0.0
+"GB, LND, Canary Wharf",1.0,0.0
+"GB, LND, Central London",1.0,0.0
+"GB, LND, EC4M 7AN",1.0,0.0
+"GB, LND, Farringdon",1.0,0.0
+"GB, LND, Feltham",1.0,0.0
+"GB, LND, Finchley",1.0,0.0
+"GB, LND, Fulham",1.0,0.0
+"GB, LND, Hammersmith",1.0,0.0
+"GB, LND, Holborn",1.0,0.0
+"GB, LND, Hoxton",1.0,0.0
+"GB, LND, Ilford",1.0,0.0
+"GB, LND, Kennington",1.0,0.0
+"GB, LND, Kingston",1.0,0.0
+"GB, LND, Kingston upon Thames",1.0,0.0
+"GB, LND, LONDON",1.0,0.0
+"GB, LND, Lewisham",1.0,0.0
+"GB, LND, Leyton",1.0,0.0
+"GB, LND, Lon",1.0,0.0
+"GB, LND, London",0.9972144846796658,0.002785515320334262
+"GB, LND, London ",1.0,0.0
+"GB, LND, London Bridge",1.0,0.0
+"GB, LND, London/Warrington",1.0,0.0
+"GB, LND, Middlesex",1.0,0.0
+"GB, LND, NW1 7QP",1.0,0.0
+"GB, LND, Notting Hill",1.0,0.0
+"GB, LND, Old Street",1.0,0.0
+"GB, LND, Piccadilly",1.0,0.0
+"GB, LND, Putney",1.0,0.0
+"GB, LND, Roehampton",1.0,0.0
+"GB, LND, Shoreditch",1.0,0.0
+"GB, LND, Soho",1.0,0.0
+"GB, LND, The Peak",1.0,0.0
+"GB, LND, Twickenham",1.0,0.0
+"GB, LND, Victoria",1.0,0.0
+"GB, LND, WC1V 6PX",1.0,0.0
+"GB, LND, West London",1.0,0.0
+"GB, LND, Westminster",1.0,0.0
+"GB, LND, Wimbledon",1.0,0.0
+"GB, LND, lo",1.0,0.0
+"GB, LND, london",0.8181818181818182,0.18181818181818182
+"GB, LUT, Luton",1.0,0.0
+"GB, LUT, bedfordshire",1.0,0.0
+"GB, MAN, ",1.0,0.0
+"GB, MAN, Manchester",1.0,0.0
+"GB, MAN, Manchester City Center",1.0,0.0
+"GB, MAN, Northenden",1.0,0.0
+"GB, MAN, Old Trafford",1.0,0.0
+"GB, MAN, Rusholme",1.0,0.0
+"GB, MAN, Sale",1.0,0.0
+"GB, MAN, Sale ",1.0,0.0
+"GB, MAN, Salford",1.0,0.0
+"GB, MAN, Wigan",1.0,0.0
+"GB, MAN, manchester",1.0,0.0
+"GB, MDB, North East",1.0,0.0
+"GB, MIK, Milton Keynes",1.0,0.0
+"GB, MLN, Edinburgh",1.0,0.0
+"GB, MLN, Edinburgh ",1.0,0.0
+"GB, MLN, Edinburgh Central, South and South East",1.0,0.0
+"GB, MLN, Edinburgh South and South East",1.0,0.0
+"GB, NBL, ",1.0,0.0
+"GB, NBL, Northumberland",1.0,0.0
+"GB, NEL, Immingham",1.0,0.0
+"GB, NET, ",1.0,0.0
+"GB, NET, Gateshead",1.0,0.0
+"GB, NET, Newcastle",1.0,0.0
+"GB, NET, Newcastle Upon Tyne",1.0,0.0
+"GB, NET, North East",1.0,0.0
+"GB, NET, Northumberland",1.0,0.0
+"GB, NET, Washington",1.0,0.0
+"GB, NGM, ",1.0,0.0
+"GB, NGM, NOTTINGHAM",1.0,0.0
+"GB, NGM, Nottingham",1.0,0.0
+"GB, NIR, Newry",1.0,0.0
+"GB, NSM, Bristol",1.0,0.0
+"GB, NTH, ",1.0,0.0
+"GB, NTT, ",1.0,0.0
+"GB, NTT, NOTTINGHAM",1.0,0.0
+"GB, NTT, Newark",1.0,0.0
+"GB, NYK, ",1.0,0.0
+"GB, NYK,   HG2 7NR",1.0,0.0
+"GB, NYK, HARROGATE",1.0,0.0
+"GB, NYK, Harrogate",1.0,0.0
+"GB, NYK, Harrogate ",1.0,0.0
+"GB, NYK, ROBIN HOODS BAY",1.0,0.0
+"GB, NYK, Scarborough",1.0,0.0
+"GB, NYK, Thirsk",1.0,0.0
+"GB, OLD, Oldham",1.0,0.0
+"GB, OXF, Oxford",1.0,0.0
+"GB, OXF, Thame",1.0,0.0
+"GB, PKN, Meigle",1.0,0.0
+"GB, PKN, Perth and Kinross",1.0,0.0
+"GB, PKN, Perthshire",1.0,0.0
+"GB, PLY, ",1.0,0.0
+"GB, PTE, ",1.0,0.0
+"GB, RDG, ",1.0,0.0
+"GB, RIC, London",1.0,0.0
+"GB, RIC, Teddington",1.0,0.0
+"GB, RIC, Twickenham",1.0,0.0
+"GB, RIC, Twickenham ",1.0,0.0
+"GB, SCT,  Edinburgh",1.0,0.0
+"GB, SCT, Glasgow or Edinburgh",1.0,0.0
+"GB, SCT, Scotland",1.0,0.0
+"GB, SFK, ",1.0,0.0
+"GB, SFK, Ipswich",1.0,0.0
+"GB, SFK, Leiston",1.0,0.0
+"GB, SHF, ",1.0,0.0
+"GB, SHF, Hathersage",1.0,0.0
+"GB, SHF, Sheffield",1.0,0.0
+"GB, SND, Peterlee",1.0,0.0
+"GB, SND, Sunderland",1.0,0.0
+"GB, SOL, Hampton in Arden",1.0,0.0
+"GB, SOL, Solihull / Olton ",1.0,0.0
+"GB, SOM, ",1.0,0.0
+"GB, SOM, Cheddar",1.0,0.0
+"GB, SOM, Clevedon",1.0,0.0
+"GB, SOM, Radstock",1.0,0.0
+"GB, SOM, radstock",1.0,0.0
+"GB, SOS, Southend-on-Sea",1.0,0.0
+"GB, SRY, Camberley",1.0,0.0
+"GB, SRY, Guildford",1.0,0.0
+"GB, SRY, Kingston upon Thames",1.0,0.0
+"GB, SRY, Staines",1.0,0.0
+"GB, SRY, Surbiton",1.0,0.0
+"GB, SRY, Woking",1.0,0.0
+"GB, STE, Staffordshire",1.0,0.0
+"GB, STE, Stoke",1.0,0.0
+"GB, STH, ",1.0,0.0
+"GB, STH, Southampton",1.0,0.0
+"GB, STS, ",1.0,0.0
+"GB, STS, Stoke On Trent",1.0,0.0
+"GB, STT, Stockton-On-Tees",1.0,0.0
+"GB, SWD, ",1.0,0.0
+"GB, SWD, Chippenham",1.0,0.0
+"GB, SWD, Swindon",1.0,0.0
+"GB, TFW, Telford/Shrewsbury",1.0,0.0
+"GB, TRF, ",1.0,0.0
+"GB, UKM, Bradford",1.0,0.0
+"GB, UKM, Farringdon",1.0,0.0
+"GB, UKM, Leeds",1.0,0.0
+"GB, UKM, London",1.0,0.0
+"GB, UKM, Stockholm, Sweden",1.0,0.0
+"GB, WAR, Coventry",1.0,0.0
+"GB, WBK, London ",1.0,0.0
+"GB, WBK, Maidenhead",1.0,0.0
+"GB, WBK, Reading",1.0,0.0
+"GB, WGN, Wigan",1.0,0.0
+"GB, WKF, Dewsbury",1.0,0.0
+"GB, WKF, Grange Moore",1.0,0.0
+"GB, WKF, Grange Moore, Wakefield",1.0,0.0
+"GB, WKF, Pontefract",1.0,0.0
+"GB, WKF, Wakefield",1.0,0.0
+"GB, WLS, Bangor",1.0,0.0
+"GB, WLV, Kingswinford",1.0,0.0
+"GB, WOR, ",1.0,0.0
+"GB, WOR, Stourport on Severn",1.0,0.0
+"GB, WOR, worcester",1.0,0.0
+"GB, WRL, ",1.0,0.0
+"GB, WRL, Wallasey ",1.0,0.0
+"GB, WSM, London",1.0,0.0
+"GB, WSX, Chichester",1.0,0.0
+"GB, WSX, Crawley",1.0,0.0
+"GB, YOR, York",1.0,0.0
+"GB, ZET, Shetlands",1.0,0.0
+"GH, AA, Accra",1.0,0.0
+GR,1.0,0.0
+"GR, , ",1.0,0.0
+"GR, , ATHENS",1.0,0.0
+"GR, , Agios Nikolaos",1.0,0.0
+"GR, , Athena",1.0,0.0
+"GR, , Athens",1.0,0.0
+"GR, , Athens (Iraklio)",1.0,0.0
+"GR, , HALANDRI",1.0,0.0
+"GR, , Heraklion",1.0,0.0
+"GR, , Marousi",1.0,0.0
+"GR, , Remote",1.0,0.0
+"GR, , Thessaloniki",1.0,0.0
+"GR, , Volos",1.0,0.0
+"GR, , Αthens",1.0,0.0
+"GR, A, Komotini",1.0,0.0
+"GR, B, ",1.0,0.0
+"GR, B, THESSALONIKI",1.0,0.0
+"GR, B, Thessaloniki",1.0,0.0
+"GR, B, Thessaloniki ",1.0,0.0
+"GR, D, Ioannina",1.0,0.0
+"GR, E, Larisa, Volos",1.0,0.0
+"GR, E, Skiathos",1.0,0.0
+"GR, E, Volos",1.0,0.0
+"GR, F, Lassi",1.0,0.0
+"GR, G, Patras",1.0,0.0
+"GR, H, ATHENS",1.0,0.0
+"GR, H, Athens",1.0,0.0
+"GR, H, Chalkida",1.0,0.0
+"GR, H, Fthiotida - Lamia",1.0,0.0
+"GR, H, LEVADIA",1.0,0.0
+"GR, I, ",1.0,0.0
+"GR, I, 15233",1.0,0.0
+"GR, I, ARGYROUPOLIS",1.0,0.0
+"GR, I, ATHENS",1.0,0.0
+"GR, I, Acharnai",1.0,0.0
+"GR, I, Acharnai, Athens",1.0,0.0
+"GR, I, Acharnes",1.0,0.0
+"GR, I, Acharnes, Athens",1.0,0.0
+"GR, I, Agia Paraskevi",1.0,0.0
+"GR, I, Agios Stefanos",1.0,0.0
+"GR, I, Ahens",1.0,0.0
+"GR, I, Alimos",1.0,0.0
+"GR, I, Athens",1.0,0.0
+"GR, I, Athens ",1.0,0.0
+"GR, I, Athens (Iraklio)",1.0,0.0
+"GR, I, Athens, Rouf",1.0,0.0
+"GR, I, Chalandri",1.0,0.0
+"GR, I, Chalandri, Athens",1.0,0.0
+"GR, I, Egaleo",1.0,0.0
+"GR, I, Gerakas",1.0,0.0
+"GR, I, Glyfada",1.0,0.0
+"GR, I, Halandri",1.0,0.0
+"GR, I, Holargos",1.0,0.0
+"GR, I, Ilion",1.0,0.0
+"GR, I, Irakleio",1.0,0.0
+"GR, I, Iraklio",1.0,0.0
+"GR, I, KIFISSIA",1.0,0.0
+"GR, I, Kalivia Thorikou",1.0,0.0
+"GR, I, Kessariani",1.0,0.0
+"GR, I, Kifisia",1.0,0.0
+"GR, I, Kifisia, Athens",1.0,0.0
+"GR, I, Kifissia",1.0,0.0
+"GR, I, Magoula",1.0,0.0
+"GR, I, Marousi",1.0,0.0
+"GR, I, Marousi - Athens",1.0,0.0
+"GR, I, Maroussi",1.0,0.0
+"GR, I, Melissia",1.0,0.0
+"GR, I, Metamorfosi",1.0,0.0
+"GR, I, N. Irakleio",1.0,0.0
+"GR, I, Nea Filadelfia",1.0,0.0
+"GR, I, Nea Ionia",1.0,0.0
+"GR, I, Neo Irakleio",1.0,0.0
+"GR, I, Neo Iraklio",1.0,0.0
+"GR, I, Neo Iraklio, Athens",1.0,0.0
+"GR, I, Paiania",1.0,0.0
+"GR, I, Palaio Faliro",1.0,0.0
+"GR, I, Penteli",1.0,0.0
+"GR, I, Peristeri",1.0,0.0
+"GR, I, Petroupoli",1.0,0.0
+"GR, I, Piraeus",1.0,0.0
+"GR, I, Pireaus",1.0,0.0
+"GR, I, Psichiko",1.0,0.0
+"GR, I, Syntagma",1.0,0.0
+"GR, I, Vari",1.0,0.0
+"GR, I, Vrilissia , Greece",1.0,0.0
+"GR, I, Vrilissia, Athens",1.0,0.0
+"GR, I, athens",1.0,0.0
+"GR, I, chalandri",1.0,0.0
+"GR, I, kalivia thorikou",1.0,0.0
+"GR, I, piraeus",1.0,0.0
+"GR, I, Αθήνα",1.0,0.0
+"GR, I, ΕΛΛΗΝΙΚΟ",1.0,0.0
+"GR, J, Corinth",1.0,0.0
+"GR, J, Patra",1.0,0.0
+"GR, J, Patras",1.0,0.0
+"GR, L, Mykonos",1.0,0.0
+"GR, M, Agios Nikolaos",1.0,0.0
+"GR, M, Chania",1.0,0.0
+"GR, M, Heraklio",1.0,0.0
+"GR, M, Heraklion",1.0,0.0
+HK,1.0,0.0
+"HK, , ",1.0,0.0
+"HK, , Hong Kong",1.0,0.0
+"HK, Hong Kong, Cyberport",1.0,0.0
+"HR, 21, ",1.0,0.0
+"HU, , ",1.0,0.0
+"HU, , Budapest",1.0,0.0
+"HU, BU, ",1.0,0.0
+"HU, BU, Budapest",1.0,0.0
+"ID, , ",1.0,0.0
+"ID, , Medan",1.0,0.0
+"ID, JW, Bandung",1.0,0.0
+"ID, JW, Cimahi",1.0,0.0
+"ID, JW, Jakarta",0.8333333333333334,0.16666666666666666
+"IE, , ",1.0,0.0
+"IE, , City",1.0,0.0
+"IE, , Cork",1.0,0.0
+"IE, , Dublin",1.0,0.0
+"IE, , Work from home",1.0,0.0
+"IE, L, Dubin",1.0,0.0
+"IE, L, Dublin",1.0,0.0
+"IE, L, Dublin 2",1.0,0.0
+IL,1.0,0.0
+"IL, , ",1.0,0.0
+"IL, , Herzliya",1.0,0.0
+"IL, , Tel Aviv",1.0,0.0
+"IL, , Tel Aviv ",1.0,0.0
+"IL, , Tel Aviv, Israel",1.0,0.0
+"IL, , Tel-Aviv",1.0,0.0
+"IL, JM, Jerusalem",1.0,0.0
+"IL, M, Hertzelia",1.0,0.0
+"IL, M, Tel Aviv",1.0,0.0
+"IL, TA, ",1.0,0.0
+"IL, TA, Tel ",1.0,0.0
+"IL, TA, Tel Aviv",1.0,0.0
+"IL, TA, Tel-Aviv",1.0,0.0
+IN,1.0,0.0
+"IN, , ",0.9642857142857143,0.03571428571428571
+"IN, , Bangalore",1.0,0.0
+"IN, , Gurgoan",1.0,0.0
+"IN, , Hyderabad",0.3333333333333333,0.6666666666666666
+"IN, , Hyderabad/Pune/remote",1.0,0.0
+"IN, , INDORE",1.0,0.0
+"IN, , Indore",1.0,0.0
+"IN, , Pune",1.0,0.0
+"IN, AP, Hyderabad",0.95,0.05
+"IN, AP, Visakhapatnam",1.0,0.0
+"IN, AP, Vishakhapatanam",1.0,0.0
+"IN, AP, anantapur",1.0,0.0
+"IN, AP, hyderabad",1.0,0.0
+"IN, CH, Chandigarh",1.0,0.0
+"IN, CH, Panchkula",1.0,0.0
+"IN, DL, ",1.0,0.0
+"IN, DL, Delhi",1.0,0.0
+"IN, DL, New Delhi",1.0,0.0
+"IN, DL, Noida",1.0,0.0
+"IN, DL, South Delhi",1.0,0.0
+"IN, GJ, 380013",1.0,0.0
+"IN, GJ, Ahmedabad",1.0,0.0
+"IN, HP, Dharamshala",1.0,0.0
+"IN, HR, GURGAON",1.0,0.0
+"IN, HR, Gurgaon",1.0,0.0
+"IN, KA, Bangalore",1.0,0.0
+"IN, KA, Bangalore ",1.0,0.0
+"IN, KA, Bengaluru",1.0,0.0
+"IN, KA, Domlur, Bangalore",1.0,0.0
+"IN, KA, bangalore",1.0,0.0
+"IN, KL, Cochin",1.0,0.0
+"IN, KL, Kochi",1.0,0.0
+"IN, KL, Trivandrum",1.0,0.0
+"IN, KL, kakanad, cochi",1.0,0.0
+"IN, MH, Dhule",1.0,0.0
+"IN, MH, Mumbai",1.0,0.0
+"IN, MH, Mumbai/Navi Mumbai",1.0,0.0
+"IN, MH, Nagpur",1.0,0.0
+"IN, MH, Pune",1.0,0.0
+"IN, MH, mumbai",1.0,0.0
+"IN, MP, Indore",1.0,0.0
+"IN, MP, indore",1.0,0.0
+"IN, OR, Bhubaneswar",1.0,0.0
+"IN, RJ, Churu",1.0,0.0
+"IN, RJ, Jaipur",1.0,0.0
+"IN, TN, CHENNAI",1.0,0.0
+"IN, TN, Chennai",1.0,0.0
+"IN, TN, Coimbatore",1.0,0.0
+"IN, TN, chennai",1.0,0.0
+"IN, UP, Noida",1.0,0.0
+"IN, WB, Kolkata",1.0,0.0
+"IQ, , ",1.0,0.0
+"IQ, , Erbil",1.0,0.0
+"IQ, AR, ",1.0,0.0
+"IQ, AR, Juman",1.0,0.0
+"IQ, BA,  Al Nashwa",1.0,0.0
+"IS, , ",1.0,0.0
+"IS, 1, Reykjavik",1.0,0.0
+"IT, , ",1.0,0.0
+"IT, , Italy",1.0,0.0
+"IT, , Milan",1.0,0.0
+"IT, , Milan Area",1.0,0.0
+"IT, , Rome",1.0,0.0
+"IT, , Work from home",1.0,0.0
+"IT, 21, Torino",1.0,0.0
+"IT, 25, Milan",1.0,0.0
+"IT, 25, Milano",1.0,0.0
+"IT, 52, Florence",1.0,0.0
+"JM, 01, Kingston",1.0,0.0
+"JP, , ",1.0,0.0
+"JP, , Tokyo - Shibuya",1.0,0.0
+"JP, 13, ",1.0,0.0
+"JP, 13, Shibuya",1.0,0.0
+"JP, 13, Tokyo",1.0,0.0
+"JP, 13, Tokyo - Shibuya",1.0,0.0
+"KE, , ",1.0,0.0
+"KE, , Nai",1.0,0.0
+"KE, 110, ",1.0,0.0
+"KH, 12, Phnom Phen",1.0,0.0
+"KR, , ",1.0,0.0
+"KR, , Seoul",1.0,0.0
+"KR, 11, 마포구 동교동",1.0,0.0
+"KR, 26, Busan",1.0,0.0
+"KR, 28, Incheon",1.0,0.0
+"KR, 41, Seoul",1.0,0.0
+"KR, 41, Yongin ",1.0,0.0
+"KW, KU, ",1.0,0.0
+"KZ, ALA, ",1.0,0.0
+"LK, , ",1.0,0.0
+"LK, , Colombo",1.0,0.0
+"LT, , ",1.0,0.0
+"LT, , Kaunas",1.0,0.0
+"LT, , Vilnius",1.0,0.0
+"LT, KU, Kaunas",1.0,0.0
+"LT, VL, Vilnius",1.0,0.0
+"LU, , ",1.0,0.0
+"LU, , Luxembourg",1.0,0.0
+"LU, , Work from home",1.0,0.0
+"LU, L, Luxembourg",1.0,0.0
+"LV, , Riga",1.0,0.0
+"LV, RIX, Riga",1.0,0.0
+"MA, 01, Tanger",1.0,0.0
+"MT, , ",1.0,0.0
+"MT, , Sliema ",1.0,0.0
+"MT, 56, ",1.0,0.0
+"MT, 56, Sliema",1.0,0.0
+"MU, BR, Rose Hill",1.0,0.0
+"MU, PL, ",1.0,0.0
+"MU, PW, Ebene",1.0,0.0
+"MU, PW, Quatre-Bornes",1.0,0.0
+"MU, QB, ",1.0,0.0
+"MU, QB, Ebene",1.0,0.0
+"MX, , ",1.0,0.0
+"MX, CHH, Juárez",1.0,0.0
+"MX, COA, Saltillo",1.0,0.0
+"MX, DIF, ",1.0,0.0
+"MX, DIF, D.F.",1.0,0.0
+"MX, DIF, Mexico",1.0,0.0
+"MX, DIF, Mexico City",1.0,0.0
+"MX, DIF, México",1.0,0.0
+"MX, MEX, Mexico",1.0,0.0
+"MX, MEX, Mexico City",1.0,0.0
+"MX, NLE, Monterrey",1.0,0.0
+"MX, QUE, Querétaro",1.0,0.0
+"MY, , ",0.125,0.875
+"MY, , Kuala Lumpur - Sentral",1.0,0.0
+"MY, , Kuala lumpur",0.0,1.0
+"MY, 07, Bayan Lepas",1.0,0.0
+"MY, 10, ",1.0,0.0
+"MY, 10, KUALA LUMPUR",1.0,0.0
+"MY, 10, Petaling Jaya",1.0,0.0
+"MY, 14, KL - Petaling Jaya",1.0,0.0
+"MY, 14, Kuala lumpur",0.0,1.0
+"MY, 16, ",0.0,1.0
+"MY, 16, Putrajaya",0.0,1.0
+"NG, , ",1.0,0.0
+"NG, LA, ",1.0,0.0
+"NG, LA, Lagos",1.0,0.0
+"NG, LA, Lekki",1.0,0.0
+"NG, LA, lagos",1.0,0.0
+"NI, MN, Managua",1.0,0.0
+"NL, , ",1.0,0.0
+"NL, , Amersfoort",1.0,0.0
+"NL, , Amsterdam",1.0,0.0
+"NL, , Rotterdam",1.0,0.0
+"NL, , The Hague",1.0,0.0
+"NL, , Work from home",1.0,0.0
+"NL, DR, Assen",1.0,0.0
+"NL, NB, Eindhoven",1.0,0.0
+"NL, NH, Amsetrdam",1.0,0.0
+"NL, NH, Amsterdam",1.0,0.0
+"NL, NH, Amsterdam, Rotterdam, The Hague, Utrecht",1.0,0.0
+"NL, NH, Hilversum",1.0,0.0
+"NL, OV, ",1.0,0.0
+"NL, UT, AMERSFOORT",1.0,0.0
+"NL, UT, Amersfoort",1.0,0.0
+"NL, ZH, ",1.0,0.0
+"NL, ZH, Rotterdam",1.0,0.0
+"NL, ZH, Rotterdam, The Hague, Utrecht, Amsterdam",1.0,0.0
+"NO, , Oslo",1.0,0.0
+"NO, , Work from home",1.0,0.0
+"NO, 03, ",1.0,0.0
+"NO, 03, Oslo",1.0,0.0
+NZ,1.0,0.0
+"NZ, , ",1.0,0.0
+"NZ, , Auckland",1.0,0.0
+"NZ, , Auckland ",1.0,0.0
+"NZ, , Auckland & Wellington",1.0,0.0
+"NZ, , Christchurch",1.0,0.0
+"NZ, , Wellington",1.0,0.0
+"NZ, N, ",1.0,0.0
+"NZ, N, Albany",1.0,0.0
+"NZ, N, Alk",1.0,0.0
+"NZ, N, Auc",1.0,0.0
+"NZ, N, Auckl",1.0,0.0
+"NZ, N, Auckland",1.0,0.0
+"NZ, N, Auckland ",1.0,0.0
+"NZ, N, Auckland CBD",1.0,0.0
+"NZ, N, Auckland Central",1.0,0.0
+"NZ, N, Auckland City",1.0,0.0
+"NZ, N, Auckland/Penrose",1.0,0.0
+"NZ, N, Masterton",1.0,0.0
+"NZ, N, North Shore",1.0,0.0
+"NZ, N, Wel",1.0,0.0
+"NZ, N, Wellington",1.0,0.0
+"NZ, N, West Auckland",1.0,0.0
+"NZ, N, auckland",1.0,0.0
+"NZ, S, Canterbury",1.0,0.0
+"NZ, S, Christchurch",1.0,0.0
+"NZ, S, Nelson/Marlborough",1.0,0.0
+"PA, , ",1.0,0.0
+"PA, 6, Pese",1.0,0.0
+"PA, 8, ",1.0,0.0
+"PA, 8, Panama",1.0,0.0
+"PE, , Lima",1.0,0.0
+"PH, , ",1.0,0.0
+"PH, , Cabanatuan City",1.0,0.0
+"PH, , Cebu City",1.0,0.0
+"PH, , Makati",1.0,0.0
+"PH, , Makati City",1.0,0.0
+"PH, , Makati City ",1.0,0.0
+"PH, , Makati, Philippines",1.0,0.0
+"PH, , Manila",1.0,0.0
+"PH, , Pasig",1.0,0.0
+"PH, , QUEZON CITY ",1.0,0.0
+"PH, , Quezon City",1.0,0.0
+"PH, , Quezon City ",1.0,0.0
+"PH, , Taguig City",1.0,0.0
+"PH, , Taguig City ",1.0,0.0
+"PH, 00, Alabang",1.0,0.0
+"PH, 00, Makati",1.0,0.0
+"PH, 00, Makati City",1.0,0.0
+"PH, 00, Mandaluyong City",1.0,0.0
+"PH, 00, Manila",1.0,0.0
+"PH, 00, Northgate Cyberzone, Alabang",1.0,0.0
+"PH, 00, Pasig City",1.0,0.0
+"PH, 00, Philippies",1.0,0.0
+"PH, 00, QUEZON CITY ",1.0,0.0
+"PH, 00, Quezon City",1.0,0.0
+"PH, 00, Taguig",1.0,0.0
+"PH, 00, Taguig City",1.0,0.0
+"PH, 00, makati ",1.0,0.0
+"PH, 02, ",1.0,0.0
+"PH, 03, ",1.0,0.0
+"PH, 07, Ce\",1.0,0.0
+"PH, 07, Cebu",1.0,0.0
+"PH, 07, Cebu City",1.0,0.0
+"PH, 07, Mandaue City",1.0,0.0
+"PH, 11, Davao City",1.0,0.0
+"PH, 14, Quezon City",1.0,0.0
+"PH, 14, Quezon City ",1.0,0.0
+"PH, 40, Alabang area",1.0,0.0
+"PH, 40, Cav",1.0,0.0
+"PH, 40, Cavite",1.0,0.0
+"PH, 40, Cavite or Alabang area",1.0,0.0
+"PH, 41, Manila",0.0,1.0
+"PK, , ",1.0,0.0
+"PK, IS, Islamabad",1.0,0.0
+"PK, NW, Peshawer",1.0,0.0
+"PK, PB, Lahore",1.0,0.0
+"PK, SD, Karachi",0.9333333333333333,0.06666666666666667
+"PL, , ",1.0,0.0
+"PL, , Poland",1.0,0.0
+"PL, , Poznań",1.0,0.0
+"PL, , REMOTE",1.0,0.0
+"PL, , Warsaw",1.0,0.0
+"PL, , Warszawa",1.0,0.0
+"PL, , Wrocław",1.0,0.0
+"PL, , krakow",1.0,0.0
+"PL, DS, Wroclaw",1.0,0.0
+"PL, DS, Wrocław",1.0,0.0
+"PL, MA, Krakow",1.0,0.0
+"PL, MA, Kraków",1.0,0.0
+"PL, MZ, Warsaw",0.8636363636363636,0.13636363636363635
+"PL, MZ, Warszawa",1.0,0.0
+"PL, PM, Gdańsk",1.0,0.0
+"PL, WP, Poznań",1.0,0.0
+"PT, , ",1.0,0.0
+"PT, , Porto",1.0,0.0
+"PT, 06, Coimbra",1.0,0.0
+"PT, 11, ",1.0,0.0
+"PT, 11, Lisbon",1.0,0.0
+"PT, 13, Porto",1.0,0.0
+QA,1.0,0.0
+"QA, , ",0.6,0.4
+"QA, , Doha",1.0,0.0
+"QA, DA, ",0.4,0.6
+"QA, DA, Doha",0.6666666666666666,0.3333333333333333
+"RO, , ",1.0,0.0
+"RO, , Bucharest",1.0,0.0
+"RO, B, ",1.0,0.0
+"RO, B, Bucharest",1.0,0.0
+"RO, B, Bucharrest",1.0,0.0
+"RO, B, Bucuresti",1.0,0.0
+"RO, CJ, Cluj-Napoca",1.0,0.0
+"RO, IS, Iasi",1.0,0.0
+"RO, TM, Timisoara",1.0,0.0
+"RS, , ",1.0,0.0
+"RS, 00, ",1.0,0.0
+"RS, 00, Beograd",1.0,0.0
+"RS, 00, Delta Mall Store",1.0,0.0
+"RS, VO, Novi Sad",1.0,0.0
+"RU, , ",1.0,0.0
+"RU, , Moscow",1.0,0.0
+"RU, MOW, ",1.0,0.0
+"RU, MOW, Moscow",1.0,0.0
+"RU, MOW, Moskva",1.0,0.0
+"RU, SPE, ",1.0,0.0
+"RU, SPE, St. Petersburg",1.0,0.0
+"SA, , ",1.0,0.0
+"SA, , Jeddah",1.0,0.0
+"SA, 01, ",1.0,0.0
+"SA, 01, Murabba Riyadh",0.0,1.0
+"SA, 01, Riyadh",1.0,0.0
+"SA, 01, Riyadh, Olaya",1.0,0.0
+"SA, 05, Al Hufuf",1.0,0.0
+"SA, 11, Al Hasa",1.0,0.0
+"SA, 12, AL Hasa",1.0,0.0
+"SD, , South ",1.0,0.0
+"SE, , ",1.0,0.0
+"SE, , Stockholm",1.0,0.0
+"SE, AB, Stockholm",1.0,0.0
+"SE, G, Växjö",1.0,0.0
+"SE, I, Visby",1.0,0.0
+"SE, T, Lund",1.0,0.0
+"SE, T, Stockholm",1.0,0.0
+"SG, , ",1.0,0.0
+"SG, , Singapore",1.0,0.0
+"SG, 01, ",1.0,0.0
+"SG, 01, Singapore",1.0,0.0
+"SG, 03, Singapore",1.0,0.0
+"SI, 061, ",1.0,0.0
+"SK, BL, ",1.0,0.0
+"SK, BL, Bratislava",1.0,0.0
+"SV, , San Salvador",1.0,0.0
+TH,1.0,0.0
+"TH, , ",1.0,0.0
+"TH, 10, Bangkok",1.0,0.0
+"TH, 12, Banbuathong",1.0,0.0
+"TH, 13, Lumlukka",1.0,0.0
+"TN, , ",1.0,0.0
+"TN, 11, ",1.0,0.0
+"TR, , Istanbul",1.0,0.0
+"TR, 06, ",1.0,0.0
+"TR, 34, ",1.0,0.0
+"TR, 34, Istanbul",1.0,0.0
+"TR, 34, İstanbul",1.0,0.0
+"TT, , ",1.0,0.0
+"TT, CTT, ",1.0,0.0
+"TT, CTT, City",1.0,0.0
+"TW, TPQ, ",1.0,0.0
+"TW, TPQ, Taipei",0.0,1.0
+"UA, , ",1.0,0.0
+"UA, , Kharkov",1.0,0.0
+"UA, , Kiev",1.0,0.0
+"UA, 40, ",1.0,0.0
+"UA, 61, Ternopil",1.0,0.0
+"UA, 71, Cherkassy",1.0,0.0
+"UA, 71, Cherkasy",1.0,0.0
+"UG, , ",1.0,0.0
+US,0.9206349206349206,0.07936507936507936
+"US, , ",0.9174041297935103,0.08259587020648967
+"US, ,  Mclean VA.",1.0,0.0
+"US, , AUSTIN",0.0,1.0
+"US, , Albany",1.0,0.0
+"US, , All Locations",1.0,0.0
+"US, , All Major Cities",1.0,0.0
+"US, , Athens",1.0,0.0
+"US, , Atlanta",1.0,0.0
+"US, , Austin",1.0,0.0
+"US, , Batavia",1.0,0.0
+"US, , Boise",1.0,0.0
+"US, , Brooklyn",1.0,0.0
+"US, , Brooklyn, NY",1.0,0.0
+"US, , Burbank",1.0,0.0
+"US, , Cambridge",1.0,0.0
+"US, , Cassopolis",1.0,0.0
+"US, , Centennial",1.0,0.0
+"US, , Chicago",1.0,0.0
+"US, , Cincinnati",1.0,0.0
+"US, , City",1.0,0.0
+"US, , Denver, CO",1.0,0.0
+"US, , East Peoria",1.0,0.0
+"US, , Eastern US",1.0,0.0
+"US, , Flushing",1.0,0.0
+"US, , Fort ",1.0,0.0
+"US, , Gilroy Hollister ",1.0,0.0
+"US, , Hampton",1.0,0.0
+"US, , Harrisburg",1.0,0.0
+"US, , Herndon",1.0,0.0
+"US, , Hillsboro",1.0,0.0
+"US, , Houston",1.0,0.0
+"US, , Indianapolis",1.0,0.0
+"US, , Irvine, California",1.0,0.0
+"US, , Irving",1.0,0.0
+"US, , Jacksonville",1.0,0.0
+"US, , Jenkintown",1.0,0.0
+"US, , Jersey City",1.0,0.0
+"US, , LOS ANGELES",1.0,0.0
+"US, , Manhattan Beach",1.0,0.0
+"US, , Miami",1.0,0.0
+"US, , Monterey",1.0,0.0
+"US, , Multiple",1.0,0.0
+"US, , NEW YORK",1.0,0.0
+"US, , Nacogdoches",1.0,0.0
+"US, , New Jersey",1.0,0.0
+"US, , New Orleans",1.0,0.0
+"US, , New York",1.0,0.0
+"US, , New York or San Francisco",1.0,0.0
+"US, , New York/Boston",1.0,0.0
+"US, , Newcastle",1.0,0.0
+"US, , North Portland",1.0,0.0
+"US, , Oshkosh",1.0,0.0
+"US, , Out of CA",1.0,0.0
+"US, , Philadelphia",1.0,0.0
+"US, , Phoenix",1.0,0.0
+"US, , Plano",1.0,0.0
+"US, , Portland",1.0,0.0
+"US, , Portsmouth, NH",1.0,0.0
+"US, , Remote",1.0,0.0
+"US, , Rockford",1.0,0.0
+"US, , Salt Lake City",1.0,0.0
+"US, , San Antonio",1.0,0.0
+"US, , San Diego",1.0,0.0
+"US, , San Franciscio",1.0,0.0
+"US, , San Francisco",1.0,0.0
+"US, , San Jose",0.0,1.0
+"US, , Santa Cruz",1.0,0.0
+"US, , Santa Rosa",1.0,0.0
+"US, , Seattle",1.0,0.0
+"US, , Shawnee",1.0,0.0
+"US, , St Paul ",1.0,0.0
+"US, , St. Cloud",1.0,0.0
+"US, , St. Paul",1.0,0.0
+"US, , St. Petersburg",1.0,0.0
+"US, , Stocton, CA",0.0,1.0
+"US, , Totowa",1.0,0.0
+"US, , Troy",1.0,0.0
+"US, , Waco",1.0,0.0
+"US, , West Hollywood",1.0,0.0
+"US, , West Virginia",1.0,0.0
+"US, , West/Southwest Region",1.0,0.0
+"US, , Western US",1.0,0.0
+"US, , Woburn",1.0,0.0
+"US, , Woodinville",1.0,0.0
+"US, , chicago",0.0,1.0
+"US, , pittsburgh",1.0,0.0
+"US, AK, ",0.0,1.0
+"US, AK, Anchorage",0.75,0.25
+"US, AK, Anchorage																																																																																				",1.0,0.0
+"US, AK, College",1.0,0.0
+"US, AK, Juneau",1.0,0.0
+"US, AL, ",1.0,0.0
+"US, AL,  ALEXANDER CITY",0.0,1.0
+"US, AL, Abbeville  ",0.0,1.0
+"US, AL, Abernant ",0.0,1.0
+"US, AL, Auburn",1.0,0.0
+"US, AL, Birmingham",0.9444444444444444,0.05555555555555555
+"US, AL, Birmingham ",0.0,1.0
+"US, AL, Birmingham,Montgomery,Atlanta Ga",1.0,0.0
+"US, AL, Dothan",1.0,0.0
+"US, AL, Florence",1.0,0.0
+"US, AL, Headland",1.0,0.0
+"US, AL, Jacksonville",1.0,0.0
+"US, AL, Livingston",1.0,0.0
+"US, AL, Marion",1.0,0.0
+"US, AL, Mobile",1.0,0.0
+"US, AL, Montevallo",1.0,0.0
+"US, AL, Montgomery",1.0,0.0
+"US, AL, Phenix City",1.0,0.0
+"US, AL, Troy",1.0,0.0
+"US, AL, Tuscaloosa",1.0,0.0
+"US, AL, Tuskegee",1.0,0.0
+"US, AL, califonia",0.0,1.0
+"US, AR, Conway",1.0,0.0
+"US, AR, Fayetteville",1.0,0.0
+"US, AR, Hot Springs ",1.0,0.0
+"US, AR, Jonesboro",1.0,0.0
+"US, AR, Little Rock",0.9,0.1
+"US, AR, Richland",1.0,0.0
+"US, AZ, ",1.0,0.0
+"US, AZ, 85032",1.0,0.0
+"US, AZ, BUCKEYE",1.0,0.0
+"US, AZ, Buckeye",1.0,0.0
+"US, AZ, Chandler ",1.0,0.0
+"US, AZ, Chandler/Mesa/Gilbert",1.0,0.0
+"US, AZ, Flagstaff",1.0,0.0
+"US, AZ, Gilbert",1.0,0.0
+"US, AZ, Glendale",1.0,0.0
+"US, AZ, MESA",1.0,0.0
+"US, AZ, Meas/Chandler/Gilbert",1.0,0.0
+"US, AZ, Mesa",1.0,0.0
+"US, AZ, Mesa/Chandler",1.0,0.0
+"US, AZ, PHOENIX",0.0,1.0
+"US, AZ, Pheonix",1.0,0.0
+"US, AZ, Phoenix",0.9873417721518988,0.012658227848101266
+"US, AZ, Phoenix ",1.0,0.0
+"US, AZ, Phoenix Metro",1.0,0.0
+"US, AZ, Phoneix",1.0,0.0
+"US, AZ, Picacho",1.0,0.0
+"US, AZ, Scenic",1.0,0.0
+"US, AZ, Scottsdale",1.0,0.0
+"US, AZ, Scottsdale/Phoenix",1.0,0.0
+"US, AZ, Show Low",1.0,0.0
+"US, AZ, Sun City",0.0,1.0
+"US, AZ, Tempe",1.0,0.0
+"US, AZ, Tucson",1.0,0.0
+"US, AZ, mesa",1.0,0.0
+"US, CA, ",0.7352941176470589,0.2647058823529412
+"US, CA,  San Diego",1.0,0.0
+"US, CA,  San Francisco",1.0,0.0
+"US, CA, 91401",0.0,1.0
+"US, CA, 92101",1.0,0.0
+"US, CA, 94306",1.0,0.0
+"US, CA, 96080",1.0,0.0
+"US, CA, Acampo ",0.0,1.0
+"US, CA, All of California",1.0,0.0
+"US, CA, Anaheim",0.9166666666666666,0.08333333333333333
+"US, CA, Apple Valley",1.0,0.0
+"US, CA, Arcadia ",1.0,0.0
+"US, CA, Arcata",1.0,0.0
+"US, CA, Atherton",1.0,0.0
+"US, CA, Auburn",1.0,0.0
+"US, CA, BERKELY ",1.0,0.0
+"US, CA, Bakersfield",0.07692307692307693,0.9230769230769231
+"US, CA, Bakersfield, CA",0.0,1.0
+"US, CA, Bakersfield, CA / Mt. Poso",0.0,1.0
+"US, CA, Bay Area",1.0,0.0
+"US, CA, Bay Area (Northern California)",1.0,0.0
+"US, CA, Bay Area, California",1.0,0.0
+"US, CA, Berkeley",1.0,0.0
+"US, CA, Beverly Hills",1.0,0.0
+"US, CA, Beverly Hills ",1.0,0.0
+"US, CA, Brea",1.0,0.0
+"US, CA, Brisbane",1.0,0.0
+"US, CA, Burbank",1.0,0.0
+"US, CA, Burlingame",1.0,0.0
+"US, CA, California",0.5,0.5
+"US, CA, Campbell",1.0,0.0
+"US, CA, Carlsb",1.0,0.0
+"US, CA, Carlsbad",1.0,0.0
+"US, CA, Carlsbad ",1.0,0.0
+"US, CA, Central Coast",1.0,0.0
+"US, CA, Cerritos",0.5,0.5
+"US, CA, Chatsworth",1.0,0.0
+"US, CA, Chico",1.0,0.0
+"US, CA, Chula Vista",1.0,0.0
+"US, CA, Chula Vista ",1.0,0.0
+"US, CA, City of Industry",0.0,1.0
+"US, CA, Claremont",1.0,0.0
+"US, CA, Concord",1.0,0.0
+"US, CA, Concord ",1.0,0.0
+"US, CA, Corona",1.0,0.0
+"US, CA, Costa Mesa",1.0,0.0
+"US, CA, Cupertino",1.0,0.0
+"US, CA, Dana Point",1.0,0.0
+"US, CA, Denver",1.0,0.0
+"US, CA, Desert Resort",1.0,0.0
+"US, CA, Diamond Bar",1.0,0.0
+"US, CA, Downey",1.0,0.0
+"US, CA, Dublin",1.0,0.0
+"US, CA, El Segundo",1.0,0.0
+"US, CA, El Segundo ",1.0,0.0
+"US, CA, Emeryville",1.0,0.0
+"US, CA, Encino",1.0,0.0
+"US, CA, Fairfield",1.0,0.0
+"US, CA, Folsom",1.0,0.0
+"US, CA, Fontana",1.0,0.0
+"US, CA, Foster City",1.0,0.0
+"US, CA, Fremont",1.0,0.0
+"US, CA, Fresno",1.0,0.0
+"US, CA, Fresno, CA",1.0,0.0
+"US, CA, Fullerton",1.0,0.0
+"US, CA, Garden Grove",1.0,0.0
+"US, CA, Gardena",1.0,0.0
+"US, CA, Glendale",1.0,0.0
+"US, CA, Greater Los Angeles Area",1.0,0.0
+"US, CA, Hayward",1.0,0.0
+"US, CA, Hollywood",1.0,0.0
+"US, CA, Huntington",1.0,0.0
+"US, CA, Huntington Beach",1.0,0.0
+"US, CA, Huntington Beach ",1.0,0.0
+"US, CA, Huntington beach",1.0,0.0
+"US, CA, Inglewood",1.0,0.0
+"US, CA, Irvine",0.9743589743589743,0.02564102564102564
+"US, CA, Isla Vista",1.0,0.0
+"US, CA, Kern County",1.0,0.0
+"US, CA, LA",1.0,0.0
+"US, CA, LA/Orange County",1.0,0.0
+"US, CA, LOS   ANGELES",0.0,1.0
+"US, CA, LOS ANGELES",0.0,1.0
+"US, CA, La Jolla",1.0,0.0
+"US, CA, La Mirada",1.0,0.0
+"US, CA, Lafayette",1.0,0.0
+"US, CA, Lake Elsinor",1.0,0.0
+"US, CA, Lakeport",1.0,0.0
+"US, CA, Loas Angeles",1.0,0.0
+"US, CA, Long Beach",0.95,0.05
+"US, CA, Long Beach ",1.0,0.0
+"US, CA, Los Angeles",0.8756756756756757,0.12432432432432433
+"US, CA, Los Angeles ",1.0,0.0
+"US, CA, Los Angeles County",1.0,0.0
+"US, CA, Los Angeles, Anaheim, San Diego",1.0,0.0
+"US, CA, Los Angeles, California, San Francisco, California, San Jose, California, Manhattan, New York, Las Vegas, Nevada, Phoenix, Arizona, San Diego, California",1.0,0.0
+"US, CA, Los Angeles/Orange County/San Diego County",1.0,0.0
+"US, CA, Los Gatos",1.0,0.0
+"US, CA, Lynwood",1.0,0.0
+"US, CA, MENLO PARK",1.0,0.0
+"US, CA, Manhattan Beach",1.0,0.0
+"US, CA, Marin",1.0,0.0
+"US, CA, Marina Del Rey",1.0,0.0
+"US, CA, Marina del Rey",1.0,0.0
+"US, CA, Menlo",1.0,0.0
+"US, CA, Menlo Park",1.0,0.0
+"US, CA, Menlo Park, CA",1.0,0.0
+"US, CA, Milpitas",1.0,0.0
+"US, CA, Modesto",1.0,0.0
+"US, CA, Montebello",0.0,1.0
+"US, CA, Monterey",1.0,0.0
+"US, CA, Moreno Valley",1.0,0.0
+"US, CA, Mountain View",1.0,0.0
+"US, CA, Newark",1.0,0.0
+"US, CA, Newbury Park",1.0,0.0
+"US, CA, Newport Beach",1.0,0.0
+"US, CA, Newport Beach ",1.0,0.0
+"US, CA, Newport Coast",0.0,1.0
+"US, CA, North Hollywood",1.0,0.0
+"US, CA, Oakland",1.0,0.0
+"US, CA, Ontario",1.0,0.0
+"US, CA, Orange",1.0,0.0
+"US, CA, Orange County",1.0,0.0
+"US, CA, Orange County ",1.0,0.0
+"US, CA, Orange, CA",1.0,0.0
+"US, CA, Oroville",1.0,0.0
+"US, CA, Oxnard",1.0,0.0
+"US, CA, Palm Springs",1.0,0.0
+"US, CA, Palmdale",1.0,0.0
+"US, CA, Palo Altio",1.0,0.0
+"US, CA, Palo Alto",0.9782608695652174,0.021739130434782608
+"US, CA, Palo Alto , CA",1.0,0.0
+"US, CA, Palo Alto, ",1.0,0.0
+"US, CA, Pasadena",1.0,0.0
+"US, CA, Petaluma",1.0,0.0
+"US, CA, Pleasanton",1.0,0.0
+"US, CA, Pleasonton",1.0,0.0
+"US, CA, Pomona",1.0,0.0
+"US, CA, Rancho Cucamonga",1.0,0.0
+"US, CA, Redd Bluff",1.0,0.0
+"US, CA, Redlands",1.0,0.0
+"US, CA, Redwood City",1.0,0.0
+"US, CA, Richmond",1.0,0.0
+"US, CA, Riverside",0.8333333333333334,0.16666666666666666
+"US, CA, Riverside Coutny",1.0,0.0
+"US, CA, Rosemead",1.0,0.0
+"US, CA, Roseville",1.0,0.0
+"US, CA, SAN DIEGO",0.0,1.0
+"US, CA, SAN FRANCISCO",1.0,0.0
+"US, CA, SF Bay Area",1.0,0.0
+"US, CA, SFO",1.0,0.0
+"US, CA, Sacaramento",1.0,0.0
+"US, CA, Sacramento",1.0,0.0
+"US, CA, Sacramento ",1.0,0.0
+"US, CA, Sacramento Region",1.0,0.0
+"US, CA, Sacramento, ca",1.0,0.0
+"US, CA, Salinas",1.0,0.0
+"US, CA, Salinas, CA",1.0,0.0
+"US, CA, San",1.0,0.0
+"US, CA, San Bernardino",1.0,0.0
+"US, CA, San Bernardino County",1.0,0.0
+"US, CA, San Bruno",1.0,0.0
+"US, CA, San Carlos",1.0,0.0
+"US, CA, San Clemente",1.0,0.0
+"US, CA, San Diego",0.9939024390243902,0.006097560975609756
+"US, CA, San Diego / Orange County",1.0,0.0
+"US, CA, San Diego, CA",1.0,0.0
+"US, CA, San Digeo",1.0,0.0
+"US, CA, San Francisco",0.9766949152542372,0.023305084745762712
+"US, CA, San Francisco ",1.0,0.0
+"US, CA, San Francisco Bay Area",1.0,0.0
+"US, CA, San Francisco Bay Area ",1.0,0.0
+"US, CA, San Francisco Bay area",1.0,0.0
+"US, CA, San Francisco, CA",1.0,0.0
+"US, CA, San Francisco/Oakland",1.0,0.0
+"US, CA, San Franscisco",1.0,0.0
+"US, CA, San Gabriel",1.0,0.0
+"US, CA, San Jose",0.7083333333333334,0.2916666666666667
+"US, CA, San Jose ",1.0,0.0
+"US, CA, San Jose / South Bay",1.0,0.0
+"US, CA, San Jose, SFO, Austin, OH",1.0,0.0
+"US, CA, San Luis Obispo",1.0,0.0
+"US, CA, San Marcos",1.0,0.0
+"US, CA, San Mateo",0.5217391304347826,0.4782608695652174
+"US, CA, San Mateo ",0.0,1.0
+"US, CA, San Mateo, CA",1.0,0.0
+"US, CA, San Rafael",1.0,0.0
+"US, CA, San Ramon",1.0,0.0
+"US, CA, San diego",0.0,1.0
+"US, CA, San francisco",1.0,0.0
+"US, CA, SanJose",1.0,0.0
+"US, CA, Santa Ana",0.75,0.25
+"US, CA, Santa Ana ",1.0,0.0
+"US, CA, Santa Clara",1.0,0.0
+"US, CA, Santa Cruz",1.0,0.0
+"US, CA, Santa Fe Springs",1.0,0.0
+"US, CA, Santa Monica",1.0,0.0
+"US, CA, Santa Rosa",1.0,0.0
+"US, CA, Sausalito",1.0,0.0
+"US, CA, Sherman Oaks",1.0,0.0
+"US, CA, Silicon Valley/San Jose - Santa Clara",1.0,0.0
+"US, CA, Simi Valley",1.0,0.0
+"US, CA, Soledad",1.0,0.0
+"US, CA, South Los Angeles",1.0,0.0
+"US, CA, South Los Angeles ",1.0,0.0
+"US, CA, South San Francisco",1.0,0.0
+"US, CA, Stanford",1.0,0.0
+"US, CA, State Wide",1.0,0.0
+"US, CA, Stockton",1.0,0.0
+"US, CA, Stockton																																																																											",1.0,0.0
+"US, CA, Studio City",1.0,0.0
+"US, CA, Sunnyvale",1.0,0.0
+"US, CA, Sunnyvale ",1.0,0.0
+"US, CA, Temecula",1.0,0.0
+"US, CA, Thousand Oaks",1.0,0.0
+"US, CA, Torrance",1.0,0.0
+"US, CA, Torrence",1.0,0.0
+"US, CA, Tri-Valley / East Bay",1.0,0.0
+"US, CA, Tustin",1.0,0.0
+"US, CA, Vallejo",0.0,1.0
+"US, CA, Vernon",1.0,0.0
+"US, CA, Victorville/Lancaster",1.0,0.0
+"US, CA, Visalia",0.6666666666666666,0.3333333333333333
+"US, CA, Walnut Creek",1.0,0.0
+"US, CA, West Covina",1.0,0.0
+"US, CA, West Hollywood",1.0,0.0
+"US, CA, Westlake Village",1.0,0.0
+"US, CA, Woodland Hills",1.0,0.0
+"US, CA, Yorba Linda",1.0,0.0
+"US, CA, anaheim",1.0,0.0
+"US, CA, los Angeles",1.0,0.0
+"US, CA, los angeles",1.0,0.0
+"US, CA, los angeles county",1.0,0.0
+"US, CA, mountain view",1.0,0.0
+"US, CA, orange county",0.0,1.0
+"US, CA, pleasanton",1.0,0.0
+"US, CA, sacremento",0.0,1.0
+"US, CA, san diego",0.75,0.25
+"US, CA, san francisco",1.0,0.0
+"US, CA, san fransisco",0.0,1.0
+"US, CA, san jose ",0.0,1.0
+"US, CA, sunnyvale",1.0,0.0
+"US, CO, ",1.0,0.0
+"US, CO, Alamosa",1.0,0.0
+"US, CO, Arvada",1.0,0.0
+"US, CO, Aurora ",1.0,0.0
+"US, CO, Boulder",1.0,0.0
+"US, CO, Boulder, CO",1.0,0.0
+"US, CO, Broomfield",1.0,0.0
+"US, CO, Centennial",1.0,0.0
+"US, CO, Colorado Springs",0.8571428571428571,0.14285714285714285
+"US, CO, Cortez",1.0,0.0
+"US, CO, DENVER ",0.8,0.2
+"US, CO, Danver ",1.0,0.0
+"US, CO, Denver",0.9230769230769231,0.07692307692307693
+"US, CO, Denver ",1.0,0.0
+"US, CO, Denver (metro)",1.0,0.0
+"US, CO, Denver, Aurora, Littleton",1.0,0.0
+"US, CO, Durango",1.0,0.0
+"US, CO, Egnar",1.0,0.0
+"US, CO, Englewood",1.0,0.0
+"US, CO, Escondido",1.0,0.0
+"US, CO, Fort Collins",1.0,0.0
+"US, CO, Fort Collins/Denver",1.0,0.0
+"US, CO, Grand Junction",1.0,0.0
+"US, CO, Lakewood",1.0,0.0
+"US, CO, Longmont",1.0,0.0
+"US, CO, Louisville",1.0,0.0
+"US, CO, Loveland",1.0,0.0
+"US, CO, Minneapolis",1.0,0.0
+"US, CO, Montrose",1.0,0.0
+"US, CO, Monument",1.0,0.0
+"US, CO, Nucla",1.0,0.0
+"US, CO, Westminster",1.0,0.0
+"US, CO, denver",0.8,0.2
+"US, CO, denver ",1.0,0.0
+"US, CT, ",0.5714285714285714,0.42857142857142855
+"US, CT, Bethel",1.0,0.0
+"US, CT, Bloomfield",1.0,0.0
+"US, CT, Bridgeport",1.0,0.0
+"US, CT, Brookfield",1.0,0.0
+"US, CT, Danbury",1.0,0.0
+"US, CT, HARTFORD",0.0,1.0
+"US, CT, Hartford",1.0,0.0
+"US, CT, Mansfield",1.0,0.0
+"US, CT, Middlebury",1.0,0.0
+"US, CT, New Britain",1.0,0.0
+"US, CT, New Haven",1.0,0.0
+"US, CT, New Heaven",1.0,0.0
+"US, CT, Northeast",1.0,0.0
+"US, CT, Norwalk",0.8,0.2
+"US, CT, South Windsor",1.0,0.0
+"US, CT, Stamford",1.0,0.0
+"US, CT, Stanford",1.0,0.0
+"US, CT, Storrs",1.0,0.0
+"US, CT, USA Northeast",1.0,0.0
+"US, CT, Unionville",1.0,0.0
+"US, CT, Wallingford",1.0,0.0
+"US, CT, West Haven",1.0,0.0
+"US, CT, Westport",1.0,0.0
+"US, CT, Windsor",1.0,0.0
+"US, DC, ",0.6,0.4
+"US, DC, DC",1.0,0.0
+"US, DC, DC Metro ",1.0,0.0
+"US, DC, District of Columbia",1.0,0.0
+"US, DC, Fairfax",1.0,0.0
+"US, DC, WASHINGTON",0.0,1.0
+"US, DC, Washington",0.9920318725099602,0.00796812749003984
+"US, DC, Washington DC",1.0,0.0
+"US, DC, Washington, D.C.",1.0,0.0
+"US, DC, Washington, DC",1.0,0.0
+"US, DC, washington",1.0,0.0
+"US, DC, washington dc",1.0,0.0
+"US, DE, ",0.0,1.0
+"US, DE, Dover",1.0,0.0
+"US, DE, New Castle",1.0,0.0
+"US, DE, Newark",1.0,0.0
+"US, DE, Washington",1.0,0.0
+"US, DE, Wilmington",1.0,0.0
+"US, FL, ",0.5,0.5
+"US, FL, 32008",0.0,1.0
+"US, FL, 32065",0.0,1.0
+"US, FL, 33308",1.0,0.0
+"US, FL, 33592",1.0,0.0
+"US, FL, 33607",1.0,0.0
+"US, FL, Apopka",1.0,0.0
+"US, FL, Arcadia",1.0,0.0
+"US, FL, Bartow",1.0,0.0
+"US, FL, Boca Raton",1.0,0.0
+"US, FL, Bonita Springs",1.0,0.0
+"US, FL, CORAL SPRINGS",1.0,0.0
+"US, FL, Cape Coral",1.0,0.0
+"US, FL, Central Fl, Nort Fl, Georgia, Alabama, Tennessee,South Carolina,North Carolina",0.0,1.0
+"US, FL, Clearwater",1.0,0.0
+"US, FL, Cocoa",1.0,0.0
+"US, FL, Coral Springs",1.0,0.0
+"US, FL, Daytona",1.0,0.0
+"US, FL, Deerfield Beach",1.0,0.0
+"US, FL, Delray Beach",1.0,0.0
+"US, FL, Deltona",0.0,1.0
+"US, FL, Doral",1.0,0.0
+"US, FL, Estero",1.0,0.0
+"US, FL, Florida",1.0,0.0
+"US, FL, Fort Lauderdale",1.0,0.0
+"US, FL, Fort Myers",1.0,0.0
+"US, FL, Fort Worth",1.0,0.0
+"US, FL, Ft Lauderdale",1.0,0.0
+"US, FL, Ft. Lauderdale",1.0,0.0
+"US, FL, Gainesville",1.0,0.0
+"US, FL, Gulf Coast Region",1.0,0.0
+"US, FL, HILLIARD FL  ",0.0,1.0
+"US, FL, Heathrow",1.0,0.0
+"US, FL, Hollywood",1.0,0.0
+"US, FL, JACKSONVILLE",0.0,1.0
+"US, FL, Jacksonville",0.94,0.06
+"US, FL, Jacksonville ",1.0,0.0
+"US, FL, Juno Beach",1.0,0.0
+"US, FL, Lake City",1.0,0.0
+"US, FL, Lake Mary",1.0,0.0
+"US, FL, Lakeland",1.0,0.0
+"US, FL, MIAMI",0.16666666666666666,0.8333333333333334
+"US, FL, Maitland",1.0,0.0
+"US, FL, Marco Island",1.0,0.0
+"US, FL, Miami",0.9821428571428571,0.017857142857142856
+"US, FL, Miramar",1.0,0.0
+"US, FL, Naples",1.0,0.0
+"US, FL, Okeechobee, FL",1.0,0.0
+"US, FL, Orlando",0.9795918367346939,0.02040816326530612
+"US, FL, Orlando ",1.0,0.0
+"US, FL, Orlando Area",1.0,0.0
+"US, FL, Orlando,Lake City, Jacksonville,Atlanta,Ocala,Miami,Asbury Park NJ, Belmar NJ, Toms River NJ.",0.0,1.0
+"US, FL, Orlanod ",1.0,0.0
+"US, FL, Palm Harbor",1.0,0.0
+"US, FL, Panama City",1.0,0.0
+"US, FL, Panhandle",1.0,0.0
+"US, FL, Pearl Harbor",1.0,0.0
+"US, FL, Pensacola",0.875,0.125
+"US, FL, Plantation",1.0,0.0
+"US, FL, Pompano",1.0,0.0
+"US, FL, Pompano Beach",1.0,0.0
+"US, FL, Port Charlotte",1.0,0.0
+"US, FL, Port St. Lucie",1.0,0.0
+"US, FL, Rivera Beach",1.0,0.0
+"US, FL, S. Florida Area",1.0,0.0
+"US, FL, Sarasota",1.0,0.0
+"US, FL, St Petersburg",1.0,0.0
+"US, FL, St. Louis",1.0,0.0
+"US, FL, St. Petersburg",1.0,0.0
+"US, FL, TAMPA",0.0,1.0
+"US, FL, Tallahassee",1.0,0.0
+"US, FL, Tamarac",0.5,0.5
+"US, FL, Tampa",0.9361702127659575,0.06382978723404255
+"US, FL, Tampa ",1.0,0.0
+"US, FL, Tampa Bay",1.0,0.0
+"US, FL, Tampa Bay Area",1.0,0.0
+"US, FL, West Palm Beach",1.0,0.0
+"US, FL, Weston",1.0,0.0
+"US, FL, Winter Park",1.0,0.0
+"US, FL, fort lauderdale",0.5,0.5
+"US, FL, jacksonville",0.0,1.0
+"US, FL, miami",1.0,0.0
+"US, FL, orlando",0.0,1.0
+"US, FL, tampa",0.6666666666666666,0.3333333333333333
+"US, GA, ",0.5,0.5
+"US, GA, ATLANTA",0.0,1.0
+"US, GA, Abbeville ",0.0,1.0
+"US, GA, Abbeville  ",0.0,1.0
+"US, GA, Acworth",1.0,0.0
+"US, GA, Alpharetta",1.0,0.0
+"US, GA, Alpharetta, GA",1.0,0.0
+"US, GA, Athens",1.0,0.0
+"US, GA, Atlanta",0.9629629629629629,0.037037037037037035
+"US, GA, Atlanta ",0.8666666666666667,0.13333333333333333
+"US, GA, Atlanta - Covington",1.0,0.0
+"US, GA, Atlanta North",1.0,0.0
+"US, GA, Atlanta-Airport Area ",1.0,0.0
+"US, GA, Atlanta - Covington ",1.0,0.0
+"US, GA, Augusta",1.0,0.0
+"US, GA, Braselton",1.0,0.0
+"US, GA, COLUMBUS",0.0,1.0
+"US, GA, Canton",1.0,0.0
+"US, GA, Carrollton",1.0,0.0
+"US, GA, Columbus",1.0,0.0
+"US, GA, Duluth",1.0,0.0
+"US, GA, Duluth ",1.0,0.0
+"US, GA, Fayetteville",0.0,1.0
+"US, GA, Ft. Benning",1.0,0.0
+"US, GA, Georgia",1.0,0.0
+"US, GA, Johns Creek",1.0,0.0
+"US, GA, Lawrenceville",1.0,0.0
+"US, GA, Macon",1.0,0.0
+"US, GA, Newnan",1.0,0.0
+"US, GA, Norcross",1.0,0.0
+"US, GA, North Atlanta",0.0,1.0
+"US, GA, Peachtree Corners",1.0,0.0
+"US, GA, Pendergrass",1.0,0.0
+"US, GA, Ringgold",1.0,0.0
+"US, GA, Roswell",1.0,0.0
+"US, GA, Savanna",1.0,0.0
+"US, GA, Savannah",1.0,0.0
+"US, GA, Southwest GA",1.0,0.0
+"US, GA, Statesboro",1.0,0.0
+"US, GA, Suwanee",1.0,0.0
+"US, GA, alpharetta",1.0,0.0
+"US, GA, atlanta",1.0,0.0
+"US, HI, ",0.0,1.0
+"US, HI, HONOLULU",0.0,1.0
+"US, HI, Honolulu",1.0,0.0
+"US, HI, Makawao",1.0,0.0
+"US, IA, ",1.0,0.0
+"US, IA, Ames",1.0,0.0
+"US, IA, Cedar Falls",1.0,0.0
+"US, IA, Cedar Rapids",1.0,0.0
+"US, IA, Coralville",1.0,0.0
+"US, IA, Council Bluffs",1.0,0.0
+"US, IA, Council Bluffs ",1.0,0.0
+"US, IA, DES MOINES",0.0,1.0
+"US, IA, Davenport",1.0,0.0
+"US, IA, Des Moines",0.75,0.25
+"US, IA, Dubuque",1.0,0.0
+"US, IA, Grinnell",1.0,0.0
+"US, IA, Harlan",1.0,0.0
+"US, IA, Harlan or Ames",1.0,0.0
+"US, IA, Iowa City",1.0,0.0
+"US, IA, Iowa city",1.0,0.0
+"US, IA, Mason City",1.0,0.0
+"US, IA, Mount Pleasant",1.0,0.0
+"US, IA, Statewide",1.0,0.0
+"US, IA, Urbandale",1.0,0.0
+"US, IA, Waterloo",1.0,0.0
+"US, IA, West Des Moines",1.0,0.0
+"US, IA, Wever",1.0,0.0
+"US, ID, ",1.0,0.0
+"US, ID, Aberdeen ",0.0,1.0
+"US, ID, Arco",1.0,0.0
+"US, ID, Boise",1.0,0.0
+"US, ID, Groveland",1.0,0.0
+"US, ID, Idaho Falls",1.0,0.0
+"US, ID, Moscow",1.0,0.0
+"US, ID, Mountain Home",1.0,0.0
+"US, ID, Pocatello",0.0,1.0
+"US, ID, Rexburg",1.0,0.0
+"US, ID, Shelley",1.0,0.0
+"US, ID, Twin Falls",1.0,0.0
+"US, IL, ",0.5,0.5
+"US, IL, ATKINSON",0.0,1.0
+"US, IL, Addison",1.0,0.0
+"US, IL, Alsip",1.0,0.0
+"US, IL, Aurora",1.0,0.0
+"US, IL, Aurora ",1.0,0.0
+"US, IL, Barrington",1.0,0.0
+"US, IL, Bensenville",1.0,0.0
+"US, IL, Bloomington",1.0,0.0
+"US, IL, Brookfield",1.0,0.0
+"US, IL, Brookfield ",1.0,0.0
+"US, IL, Buffalo Grove",1.0,0.0
+"US, IL, CHICAGO",0.0,1.0
+"US, IL, CHICAGO ",1.0,0.0
+"US, IL, Carbondale",1.0,0.0
+"US, IL, Carol Stream",0.5,0.5
+"US, IL, Champaign",1.0,0.0
+"US, IL, Champaigne",1.0,0.0
+"US, IL, Charleston",1.0,0.0
+"US, IL, Chicago",0.984313725490196,0.01568627450980392
+"US, IL, Chicago ",1.0,0.0
+"US, IL, Chicago Northwest",1.0,0.0
+"US, IL, Chicago, IL 60606, US",1.0,0.0
+"US, IL, Cicero",1.0,0.0
+"US, IL, Coal Valley",1.0,0.0
+"US, IL, Crete",1.0,0.0
+"US, IL, Danville area",1.0,0.0
+"US, IL, Deerfield",1.0,0.0
+"US, IL, Downers Grove",1.0,0.0
+"US, IL, Downtown",1.0,0.0
+"US, IL, East Peoria",1.0,0.0
+"US, IL, Elmhurst",1.0,0.0
+"US, IL, Evanston",1.0,0.0
+"US, IL, Galesburg",1.0,0.0
+"US, IL, Glendale Heights",1.0,0.0
+"US, IL, Glendale heights",1.0,0.0
+"US, IL, Gurnee",1.0,0.0
+"US, IL, Highland",1.0,0.0
+"US, IL, Highland Park ",1.0,0.0
+"US, IL, Illinois",1.0,0.0
+"US, IL, Joliet",1.0,0.0
+"US, IL, Kankakee",1.0,0.0
+"US, IL, LaSalle",1.0,0.0
+"US, IL, Lake Forest",1.0,0.0
+"US, IL, Libertyville",1.0,0.0
+"US, IL, Lombard",1.0,0.0
+"US, IL, Macomb",1.0,0.0
+"US, IL, Mascoutah",1.0,0.0
+"US, IL, Melrose Park",1.0,0.0
+"US, IL, NW Suburbs Chicago",1.0,0.0
+"US, IL, Naperville",1.0,0.0
+"US, IL, Niles",1.0,0.0
+"US, IL, Northbrook",1.0,0.0
+"US, IL, Oak Brook",1.0,0.0
+"US, IL, Oak Park",1.0,0.0
+"US, IL, Orland Park",1.0,0.0
+"US, IL, Peoria",1.0,0.0
+"US, IL, Rockford",1.0,0.0
+"US, IL, Round Lake",1.0,0.0
+"US, IL, SW Chicago Suburbs",1.0,0.0
+"US, IL, Schaumburg",0.6666666666666666,0.3333333333333333
+"US, IL, Springfield",1.0,0.0
+"US, IL, Sterling",1.0,0.0
+"US, IL, Tinley Park",1.0,0.0
+"US, IL, Urbana",1.0,0.0
+"US, IL, Walnut Hill",0.0,1.0
+"US, IL, Warrenville",1.0,0.0
+"US, IL, Waucanda",1.0,0.0
+"US, IL, Waukegan",1.0,0.0
+"US, IL, West Chicago",1.0,0.0
+"US, IL, Western Suburbs of Chicago",1.0,0.0
+"US, IL, Westmont",1.0,0.0
+"US, IL, Wheeling",1.0,0.0
+"US, IL, burbank",1.0,0.0
+"US, IL, chicago",0.7272727272727273,0.2727272727272727
+"US, IL, des Plaines",1.0,0.0
+"US, IL, hazelcrest",0.0,1.0
+"US, IL, rockford",1.0,0.0
+"US, IN, ",0.75,0.25
+"US, IN,  Indianapolis",0.0,1.0
+"US, IN, 46259  ACTON",0.0,1.0
+"US, IN, 46802",1.0,0.0
+"US, IN, Bloomington",0.8181818181818182,0.18181818181818182
+"US, IN, Carmel",1.0,0.0
+"US, IN, Cayuga",1.0,0.0
+"US, IN, Cedar Rapids",1.0,0.0
+"US, IN, Evansville",1.0,0.0
+"US, IN, Fishers",1.0,0.0
+"US, IN, Fort Wayne",1.0,0.0
+"US, IN, Fort Wayne ",1.0,0.0
+"US, IN, Greencastle",1.0,0.0
+"US, IN, INDIANAPOLIS",0.0,1.0
+"US, IN, Indianapolis",0.9285714285714286,0.07142857142857142
+"US, IN, Kokomo",1.0,0.0
+"US, IN, Lafayette",1.0,0.0
+"US, IN, Merrillville",1.0,0.0
+"US, IN, Mount Vernon",1.0,0.0
+"US, IN, Muncie",1.0,0.0
+"US, IN, North West",1.0,0.0
+"US, IN, Notre Dame",1.0,0.0
+"US, IN, Plainfield",1.0,0.0
+"US, IN, South Bend",1.0,0.0
+"US, IN, Terre Haute",1.0,0.0
+"US, IN, West Lafayette",1.0,0.0
+"US, IN, bloomington",1.0,0.0
+"US, IN, terre haute",1.0,0.0
+"US, KS, ",1.0,0.0
+"US, KS, Abbyville ",0.0,1.0
+"US, KS, Abilene ",0.0,1.0
+"US, KS, Esbon",1.0,0.0
+"US, KS, Kansas City",0.75,0.25
+"US, KS, Lawrence",1.0,0.0
+"US, KS, Lenexa",1.0,0.0
+"US, KS, Manhattan",1.0,0.0
+"US, KS, Merriam",1.0,0.0
+"US, KS, Overland Park",0.8333333333333334,0.16666666666666666
+"US, KS, Overland park",1.0,0.0
+"US, KS, Salina",0.8333333333333334,0.16666666666666666
+"US, KS, Shawnee",0.6666666666666666,0.3333333333333333
+"US, KS, Topeka",1.0,0.0
+"US, KS, Wichita",1.0,0.0
+"US, KY, ",0.0,1.0
+"US, KY, Aberdeen ",0.0,1.0
+"US, KY, Berea",1.0,0.0
+"US, KY, Bowling Green",0.6666666666666666,0.3333333333333333
+"US, KY, Cold Springs",1.0,0.0
+"US, KY, Covington",1.0,0.0
+"US, KY, Erlanger ",1.0,0.0
+"US, KY, Ghent",1.0,0.0
+"US, KY, Highland Heights",1.0,0.0
+"US, KY, Lexington",0.9615384615384616,0.038461538461538464
+"US, KY, Lexington																																																																																						",1.0,0.0
+"US, KY, London",1.0,0.0
+"US, KY, Louisville",0.9032258064516129,0.0967741935483871
+"US, KY, Mayfield",1.0,0.0
+"US, KY, Murray ",1.0,0.0
+"US, KY, Paducah",1.0,0.0
+"US, KY, Paris",1.0,0.0
+"US, KY, lexington",0.0,1.0
+"US, KY, louisville",1.0,0.0
+"US, LA, ",1.0,0.0
+"US, LA, Abbeville  ",0.0,1.0
+"US, LA, Alexandria",1.0,0.0
+"US, LA, Baton Rouge",1.0,0.0
+"US, LA, Eunice",1.0,0.0
+"US, LA, Hammond",1.0,0.0
+"US, LA, Harahan",1.0,0.0
+"US, LA, Kenner",0.0,1.0
+"US, LA, Lake Charles, ",1.0,0.0
+"US, LA, Natchitoches",1.0,0.0
+"US, LA, New Orleans",1.0,0.0
+"US, LA, Ruston",1.0,0.0
+"US, LA, Shreveport",1.0,0.0
+"US, LA, Slidell",0.0,1.0
+"US, MA, ",0.8461538461538461,0.15384615384615385
+"US, MA, 02139",1.0,0.0
+"US, MA, A",1.0,0.0
+"US, MA, Accord ",0.0,1.0
+"US, MA, Amherst",1.0,0.0
+"US, MA, Andover",1.0,0.0
+"US, MA, BOSTON",0.6666666666666666,0.3333333333333333
+"US, MA, Bedford",1.0,0.0
+"US, MA, Billerica",1.0,0.0
+"US, MA, Bostan",1.0,0.0
+"US, MA, Boston",0.9829059829059829,0.017094017094017096
+"US, MA, Boston ",1.0,0.0
+"US, MA, Bourne",1.0,0.0
+"US, MA, Boxborough",1.0,0.0
+"US, MA, Braintree",1.0,0.0
+"US, MA, Bridgewater",1.0,0.0
+"US, MA, Burlington",1.0,0.0
+"US, MA, Cambridge",1.0,0.0
+"US, MA, Chelmsford",1.0,0.0
+"US, MA, Chestnut Hill",1.0,0.0
+"US, MA, Danvers",1.0,0.0
+"US, MA, Greater Boston",1.0,0.0
+"US, MA, Greater Boston Area",1.0,0.0
+"US, MA, Harwich",1.0,0.0
+"US, MA, Haverhill",1.0,0.0
+"US, MA, Haverhill ",1.0,0.0
+"US, MA, Lexington",1.0,0.0
+"US, MA, Malden",1.0,0.0
+"US, MA, Marlborough",1.0,0.0
+"US, MA, Massachusetts",1.0,0.0
+"US, MA, Medford",1.0,0.0
+"US, MA, Needham",1.0,0.0
+"US, MA, New England ",0.0,1.0
+"US, MA, North Andover",1.0,0.0
+"US, MA, Northampton",1.0,0.0
+"US, MA, Norwell/Boston",1.0,0.0
+"US, MA, PITTSFIELD",1.0,0.0
+"US, MA, Sandwich",1.0,0.0
+"US, MA, Somerville",1.0,0.0
+"US, MA, Springfield",1.0,0.0
+"US, MA, Waltham",1.0,0.0
+"US, MA, Wellesley",1.0,0.0
+"US, MA, Westborough",1.0,0.0
+"US, MA, Weston",1.0,0.0
+"US, MA, Weymouth",1.0,0.0
+"US, MA, Wilmington",1.0,0.0
+"US, MA, Woburn",1.0,0.0
+"US, MA, salem",0.0,1.0
+"US, MA, salisbury",0.0,1.0
+"US, MA, walpole",1.0,0.0
+"US, MD, ",0.5,0.5
+"US, MD, 20855",1.0,0.0
+"US, MD, ANNAPOLIS",0.0,1.0
+"US, MD, Abell ",0.0,1.0
+"US, MD, Aberdeen ",0.0,1.0
+"US, MD, Accident ",0.0,1.0
+"US, MD, Accokeek ",0.0,1.0
+"US, MD, Annapolis",0.0,1.0
+"US, MD, BALTIMORE",0.0,1.0
+"US, MD, Bailtmore",1.0,0.0
+"US, MD, Baltimore",0.6206896551724138,0.3793103448275862
+"US, MD, Baltimore              ",0.0,1.0
+"US, MD, Baltimore / Columbia",1.0,0.0
+"US, MD, Baltimore, ",1.0,0.0
+"US, MD, Beltsville",1.0,0.0
+"US, MD, Bethesda",0.75,0.25
+"US, MD, Bowie",0.5,0.5
+"US, MD, Capitol Heights",1.0,0.0
+"US, MD, College Park",0.8571428571428571,0.14285714285714285
+"US, MD, Columbia",1.0,0.0
+"US, MD, Crofton",1.0,0.0
+"US, MD, Fort Washington",0.0,1.0
+"US, MD, Frederick",0.0,1.0
+"US, MD, Frostburg",1.0,0.0
+"US, MD, GAITHERSBURG",0.0,1.0
+"US, MD, Gaithersburg",1.0,0.0
+"US, MD, Germantown",1.0,0.0
+"US, MD, Greenbelt",0.5,0.5
+"US, MD, Hagerstown",0.5,0.5
+"US, MD, Hunt Valley",1.0,0.0
+"US, MD, LINTHICUM HEIGHTS",0.0,1.0
+"US, MD, Lanham",1.0,0.0
+"US, MD, Laurel",0.5,0.5
+"US, MD, Leonardtown",1.0,0.0
+"US, MD, Maryland / D.C. Area",1.0,0.0
+"US, MD, Rockville",0.7777777777777778,0.2222222222222222
+"US, MD, Salisbury",0.6666666666666666,0.3333333333333333
+"US, MD, Silver Spring",1.0,0.0
+"US, MD, Sparks",1.0,0.0
+"US, MD, Waldorf",1.0,0.0
+"US, MD, Washington",1.0,0.0
+"US, MD, Woodlawn",1.0,0.0
+"US, MD, columbia",1.0,0.0
+"US, ME, ",1.0,0.0
+"US, ME, 04102",1.0,0.0
+"US, ME, Abbot ",0.0,1.0
+"US, ME, Bangor",0.0,1.0
+"US, ME, Lewiston",1.0,0.0
+"US, ME, Orono",1.0,0.0
+"US, ME, South Portland",1.0,0.0
+"US, MI, ",1.0,0.0
+"US, MI, 48226",1.0,0.0
+"US, MI, ACME MI  ",1.0,0.0
+"US, MI, Allendale Charter Township",1.0,0.0
+"US, MI, Allendale charter Township",1.0,0.0
+"US, MI, Ann Arbor",0.96,0.04
+"US, MI, Ann Arbor ",1.0,0.0
+"US, MI, Auburn Hills",1.0,0.0
+"US, MI, Bad Axe",1.0,0.0
+"US, MI, Bangor",1.0,0.0
+"US, MI, Battle Creek",1.0,0.0
+"US, MI, Benton Harbor",1.0,0.0
+"US, MI, Benton Harbor/St Joseph",1.0,0.0
+"US, MI, Berrien County",1.0,0.0
+"US, MI, Berrien Springs",1.0,0.0
+"US, MI, Bloomfield Hills",1.0,0.0
+"US, MI, Bridgman",1.0,0.0
+"US, MI, Brighton ",1.0,0.0
+"US, MI, Buchanan",1.0,0.0
+"US, MI, Cassopolis Dowagiac",1.0,0.0
+"US, MI, Chelsea",1.0,0.0
+"US, MI, Covert",1.0,0.0
+"US, MI, DEARBORN",0.0,1.0
+"US, MI, DETROIT",0.5,0.5
+"US, MI, Detriot",1.0,0.0
+"US, MI, Detroi",1.0,0.0
+"US, MI, Detroit",0.9910714285714286,0.008928571428571428
+"US, MI, Dowagiac",1.0,0.0
+"US, MI, Dowagiac ",1.0,0.0
+"US, MI, East Lansing",1.0,0.0
+"US, MI, FLINT",0.0,1.0
+"US, MI, Farmington Hills",0.3333333333333333,0.6666666666666666
+"US, MI, Flint",1.0,0.0
+"US, MI, Grand Blanc",1.0,0.0
+"US, MI, Grand Rapids",0.9047619047619048,0.09523809523809523
+"US, MI, Hartford",1.0,0.0
+"US, MI, Hartford, Paw Paw, Lawton",1.0,0.0
+"US, MI, Kalamazoo",1.0,0.0
+"US, MI, Lansing",1.0,0.0
+"US, MI, Lawrence",1.0,0.0
+"US, MI, Lawton",1.0,0.0
+"US, MI, Lawton Decatur",1.0,0.0
+"US, MI, Livonia",0.8333333333333334,0.16666666666666666
+"US, MI, Livonia ",1.0,0.0
+"US, MI, Macomb",1.0,0.0
+"US, MI, Marcellus Lawton",1.0,0.0
+"US, MI, Marcellus Paw Paw Lawton ",1.0,0.0
+"US, MI, Milford Township",1.0,0.0
+"US, MI, Mount Clemens",1.0,0.0
+"US, MI, Mount Pleasent",1.0,0.0
+"US, MI, Mt. Pleasant",1.0,0.0
+"US, MI, New Hudson",1.0,0.0
+"US, MI, Niles",1.0,0.0
+"US, MI, Niles Buchanan",1.0,0.0
+"US, MI, Niles Dowagiac Cassopolis Marcellus",1.0,0.0
+"US, MI, Niles/Dowagiac/Cassopolis",1.0,0.0
+"US, MI, Paw Paw",1.0,0.0
+"US, MI, Paw Paw/Lawrence",1.0,0.0
+"US, MI, Plymouth",1.0,0.0
+"US, MI, Royal Oak",1.0,0.0
+"US, MI, Saint Joseph",1.0,0.0
+"US, MI, Sawyer",1.0,0.0
+"US, MI, Sawyer ",1.0,0.0
+"US, MI, Sawyer/ New Buffalo/ Galien",1.0,0.0
+"US, MI, South Haven",1.0,0.0
+"US, MI, South Haven/Covert",1.0,0.0
+"US, MI, St. Joseph",1.0,0.0
+"US, MI, Sterling Heights",1.0,0.0
+"US, MI, Stevensville",1.0,0.0
+"US, MI, Troy",0.0,1.0
+"US, MI, Warren",1.0,0.0
+"US, MI, Washington Twp.",1.0,0.0
+"US, MI, Watervliet",1.0,0.0
+"US, MI, royal Oak",1.0,0.0
+"US, MN, ",1.0,0.0
+"US, MN,    Minneapolis",1.0,0.0
+"US, MN, 56073",0.0,1.0
+"US, MN, Bemidji",1.0,0.0
+"US, MN, Bloomington",1.0,0.0
+"US, MN, Burnsville",1.0,0.0
+"US, MN, Central/Southern Minnesota",1.0,0.0
+"US, MN, Chanhassen",1.0,0.0
+"US, MN, Coon Rapids",1.0,0.0
+"US, MN, Cottage Grove",1.0,0.0
+"US, MN, Duluth",1.0,0.0
+"US, MN, Eagan",0.0,1.0
+"US, MN, Edina",1.0,0.0
+"US, MN, Faribault",1.0,0.0
+"US, MN, Golden Valley",1.0,0.0
+"US, MN, Hopkins",1.0,0.0
+"US, MN, Lakeville",1.0,0.0
+"US, MN, MINNEAPOLIS ",1.0,0.0
+"US, MN, Mankato",1.0,0.0
+"US, MN, Maple Grove",1.0,0.0
+"US, MN, Maple Plain",1.0,0.0
+"US, MN, Marshall",1.0,0.0
+"US, MN, Midwest",1.0,0.0
+"US, MN, Minneapolis",1.0,0.0
+"US, MN, Minnetonka",1.0,0.0
+"US, MN, Moorehead ",1.0,0.0
+"US, MN, Moorhead",1.0,0.0
+"US, MN, Northfield",1.0,0.0
+"US, MN, Oronoco",1.0,0.0
+"US, MN, Plymouth",1.0,0.0
+"US, MN, Ramsey",1.0,0.0
+"US, MN, Rosemount",0.0,1.0
+"US, MN, ST CLOUD",1.0,0.0
+"US, MN, Saint Paul",1.0,0.0
+"US, MN, Savage",1.0,0.0
+"US, MN, South St. Paul",1.0,0.0
+"US, MN, St Paul",1.0,0.0
+"US, MN, St. Cloud",1.0,0.0
+"US, MN, St. Paul",1.0,0.0
+"US, MN, St. Paul ",1.0,0.0
+"US, MN, Twin Cities",1.0,0.0
+"US, MN, Waite Park",1.0,0.0
+"US, MN, Woodbury",1.0,0.0
+"US, MN, moundsview",1.0,0.0
+"US, MO, ",1.0,0.0
+"US, MO, Cape Girardo",1.0,0.0
+"US, MO, Columbia",1.0,0.0
+"US, MO, Grandview",0.0,1.0
+"US, MO, Herculaneum",1.0,0.0
+"US, MO, Independence",1.0,0.0
+"US, MO, Jefferson City",1.0,0.0
+"US, MO, Kansas City",0.9642857142857143,0.03571428571428571
+"US, MO, Kirksville",1.0,0.0
+"US, MO, Lebanon",1.0,0.0
+"US, MO, Lee's Summit ",1.0,0.0
+"US, MO, Maryland Heights",1.0,0.0
+"US, MO, Monett",0.0,1.0
+"US, MO, Point Lookout",1.0,0.0
+"US, MO, Saint Louis",1.0,0.0
+"US, MO, Springfield",1.0,0.0
+"US, MO, St Louis",0.6666666666666666,0.3333333333333333
+"US, MO, St. Charles",1.0,0.0
+"US, MO, St. Louis",0.9886363636363636,0.011363636363636364
+"US, MO, St. Peter's",1.0,0.0
+"US, MO, St. Peters",1.0,0.0
+"US, MO, St.louis",1.0,0.0
+"US, MO, University City",1.0,0.0
+"US, MO, Versailles",1.0,0.0
+"US, MS, Abbeville  ",0.0,1.0
+"US, MS, Aberdeen ",0.0,1.0
+"US, MS, Central",1.0,0.0
+"US, MS, Hattiesburg",1.0,0.0
+"US, MS, Jackson",1.0,0.0
+"US, MS, Meridian",0.0,1.0
+"US, MS, Oxford",1.0,0.0
+"US, MS, Pascagoula",1.0,0.0
+"US, MS, Starkville",1.0,0.0
+"US, MS, Storrs",1.0,0.0
+"US, MS, oxford",0.0,1.0
+"US, MT, Absarokee ",0.0,1.0
+"US, MT, Bozeman",1.0,0.0
+"US, MT, Great Falls",1.0,0.0
+"US, MT, Helena",1.0,0.0
+"US, MT, Missoula",1.0,0.0
+"US, MT, Missoula ",1.0,0.0
+"US, NC, ",0.5,0.5
+"US, NC,  Garner",0.0,1.0
+"US, NC, 28202",1.0,0.0
+"US, NC, Aberdeen ",0.0,1.0
+"US, NC, Asheboro",1.0,0.0
+"US, NC, Asheville",1.0,0.0
+"US, NC, Belews Creek",1.0,0.0
+"US, NC, Boone",1.0,0.0
+"US, NC, Cary",1.0,0.0
+"US, NC, Chapel Hill",1.0,0.0
+"US, NC, Charlotee",1.0,0.0
+"US, NC, Charlotte",0.9662921348314607,0.033707865168539325
+"US, NC, Charlotte ",0.0,1.0
+"US, NC, Clemmons",1.0,0.0
+"US, NC, Conover",1.0,0.0
+"US, NC, Cullowhee",1.0,0.0
+"US, NC, Davidson",1.0,0.0
+"US, NC, Davidson/Lake Norman Area",1.0,0.0
+"US, NC, Durham",1.0,0.0
+"US, NC, Durham ",0.0,1.0
+"US, NC, Elon",1.0,0.0
+"US, NC, Fayetteville",1.0,0.0
+"US, NC, Garner",0.0,1.0
+"US, NC, Greensboro",0.8333333333333334,0.16666666666666666
+"US, NC, Greensboro																																																																										",1.0,0.0
+"US, NC, Greenville",1.0,0.0
+"US, NC, Holly Springs, NC",0.0,1.0
+"US, NC, Lexington",1.0,0.0
+"US, NC, Monroe",1.0,0.0
+"US, NC, Mooresville",1.0,0.0
+"US, NC, Pembroke",1.0,0.0
+"US, NC, RTP ",0.0,1.0
+"US, NC, Raleigh",0.9761904761904762,0.023809523809523808
+"US, NC, Raleigh ",0.6666666666666666,0.3333333333333333
+"US, NC, Raliegh",1.0,0.0
+"US, NC, Research Triangle Park",1.0,0.0
+"US, NC, Sanford",1.0,0.0
+"US, NC, Thomasville",0.5,0.5
+"US, NC, Weaverville",1.0,0.0
+"US, NC, Wilmington",1.0,0.0
+"US, NC, Wilmington ",1.0,0.0
+"US, NC, Wilson",1.0,0.0
+"US, NC, Winston",1.0,0.0
+"US, NC, Winston Salem",1.0,0.0
+"US, NC, Winston-Salem",1.0,0.0
+"US, NC, thomasville",1.0,0.0
+"US, NC, wilmington",1.0,0.0
+"US, ND, ",1.0,0.0
+"US, ND, Abercrombie ",0.0,1.0
+"US, ND, Absaraka ",0.0,1.0
+"US, ND, Bismarck",1.0,0.0
+"US, ND, Bismarck or Fargo",1.0,0.0
+"US, ND, Fargo",1.0,0.0
+"US, ND, Fargo ",1.0,0.0
+"US, ND, Fargo or Bismarck",1.0,0.0
+"US, ND, Grand Forks",1.0,0.0
+"US, ND, Jamestown",1.0,0.0
+"US, ND, Killdeer",1.0,0.0
+"US, NE, ",1.0,0.0
+"US, NE, Abie ",0.0,1.0
+"US, NE, Broken Bow",1.0,0.0
+"US, NE, Grand Island",1.0,0.0
+"US, NE, Hastings",1.0,0.0
+"US, NE, Lincoln",1.0,0.0
+"US, NE, Lincoln																																																																		",1.0,0.0
+"US, NE, Omaha",0.7894736842105263,0.21052631578947367
+"US, NH, ",0.0,1.0
+"US, NH, Bedford",1.0,0.0
+"US, NH, Dover",1.0,0.0
+"US, NH, Durham",1.0,0.0
+"US, NH, Hanover",1.0,0.0
+"US, NH, Keene",1.0,0.0
+"US, NH, Manchester",1.0,0.0
+"US, NH, Plymouth",1.0,0.0
+"US, NH, Portsmouth",1.0,0.0
+"US, NH, Rindge",1.0,0.0
+"US, NH, Salem",1.0,0.0
+"US, NJ, ",0.8888888888888888,0.1111111111111111
+"US, NJ,  Kinnelon",1.0,0.0
+"US, NJ, Absecon ",0.0,1.0
+"US, NJ, Avenel",1.0,0.0
+"US, NJ, Basking Ridge",1.0,0.0
+"US, NJ, Berkeley Heights",1.0,0.0
+"US, NJ, Brunswick",1.0,0.0
+"US, NJ, Camden",0.0,1.0
+"US, NJ, Cateret",1.0,0.0
+"US, NJ, Central NJ Preferred",1.0,0.0
+"US, NJ, Chatham",1.0,0.0
+"US, NJ, Cherry Hill",1.0,0.0
+"US, NJ, East Hanover",1.0,0.0
+"US, NJ, East Windsor",1.0,0.0
+"US, NJ, Edison",1.0,0.0
+"US, NJ, Elmwood Park",1.0,0.0
+"US, NJ, Elmwood Park ",1.0,0.0
+"US, NJ, Englewood",1.0,0.0
+"US, NJ, Fair Haven",1.0,0.0
+"US, NJ, Franklin Lakes",1.0,0.0
+"US, NJ, Freehold",1.0,0.0
+"US, NJ, Hackensack",1.0,0.0
+"US, NJ, Haddonfield",1.0,0.0
+"US, NJ, Hammonton",1.0,0.0
+"US, NJ, Hasbrouck Heights",1.0,0.0
+"US, NJ, Hasbrouck Heights ",1.0,0.0
+"US, NJ, Hawthorne",1.0,0.0
+"US, NJ, Hillside, NJ",1.0,0.0
+"US, NJ, Hoboken",1.0,0.0
+"US, NJ, Jersey",1.0,0.0
+"US, NJ, Jersey City",1.0,0.0
+"US, NJ, Jersey City ",1.0,0.0
+"US, NJ, Lakewood",1.0,0.0
+"US, NJ, Lakewood,Brick,Toms River, Jackson,",1.0,0.0
+"US, NJ, MONTCLAIR",1.0,0.0
+"US, NJ, Millburn",1.0,0.0
+"US, NJ, Millburn / Short Hills",1.0,0.0
+"US, NJ, Montclair",1.0,0.0
+"US, NJ, Morristown",1.0,0.0
+"US, NJ, Mount Laurel",1.0,0.0
+"US, NJ, NEWARK",0.0,1.0
+"US, NJ, New Brunswick",1.0,0.0
+"US, NJ, New Jersey",1.0,0.0
+"US, NJ, Newark",1.0,0.0
+"US, NJ, Newark																																																																							",1.0,0.0
+"US, NJ, Newark ",1.0,0.0
+"US, NJ, PISCATAWAY",1.0,0.0
+"US, NJ, Park Ridge",1.0,0.0
+"US, NJ, Parsippany",1.0,0.0
+"US, NJ, Paterson",1.0,0.0
+"US, NJ, Piscataway",1.0,0.0
+"US, NJ, Princeton",1.0,0.0
+"US, NJ, Raritan",1.0,0.0
+"US, NJ, Rochelle Park",1.0,0.0
+"US, NJ, Secaucus",1.0,0.0
+"US, NJ, Sewell",1.0,0.0
+"US, NJ, Somerset",1.0,0.0
+"US, NJ, Somerville",1.0,0.0
+"US, NJ, Stratford",0.5,0.5
+"US, NJ, Summit",1.0,0.0
+"US, NJ, Teterboro",1.0,0.0
+"US, NJ, Totowa",1.0,0.0
+"US, NJ, Trenton",0.6666666666666666,0.3333333333333333
+"US, NJ, USA Northeast",1.0,0.0
+"US, NJ, Vineland",1.0,0.0
+"US, NJ, Voorhees",1.0,0.0
+"US, NJ, Wayne",1.0,0.0
+"US, NJ, Whitehouse station, ",1.0,0.0
+"US, NJ, albany",1.0,0.0
+"US, NJ, howell",1.0,0.0
+"US, NJ, jersey city",1.0,0.0
+"US, NJ, lakewood",1.0,0.0
+"US, NJ, middle town",1.0,0.0
+"US, NJ, montville",1.0,0.0
+"US, NJ, west orange",1.0,0.0
+"US, NM, Albuquerque",1.0,0.0
+"US, NM, Farmington",1.0,0.0
+"US, NM, Grants",1.0,0.0
+"US, NM, Hondo",1.0,0.0
+"US, NM, Las Cruces",1.0,0.0
+"US, NM, New York",1.0,0.0
+"US, NM, Reserve",1.0,0.0
+"US, NM, Rio Rancho",1.0,0.0
+"US, NM, Silver City",1.0,0.0
+"US, NV, ",0.0,1.0
+"US, NV, Alamo",1.0,0.0
+"US, NV, Austin",1.0,0.0
+"US, NV, Battle Mountain",1.0,0.0
+"US, NV, Carson City",1.0,0.0
+"US, NV, Carton City",1.0,0.0
+"US, NV, Henderson",1.0,0.0
+"US, NV, LAS VEGAS",0.0,1.0
+"US, NV, Las Vegas",0.975609756097561,0.024390243902439025
+"US, NV, Las vegas",1.0,0.0
+"US, NV, Mesquite",1.0,0.0
+"US, NV, Minden",1.0,0.0
+"US, NV, North Las Vegas",1.0,0.0
+"US, NV, Primm",1.0,0.0
+"US, NV, Reno",0.6666666666666666,0.3333333333333333
+"US, NY, ",0.8823529411764706,0.11764705882352941
+"US, NY,  Port Chester",1.0,0.0
+"US, NY, 10010",1.0,0.0
+"US, NY, ACRA",0.0,1.0
+"US, NY, ALBANY",0.0,1.0
+"US, NY, Accord ",0.0,1.0
+"US, NY, Albany",0.9827586206896551,0.017241379310344827
+"US, NY, Alfred",1.0,0.0
+"US, NY, Armonk",1.0,0.0
+"US, NY, Astoria",0.0,1.0
+"US, NY, Bay Shore",1.0,0.0
+"US, NY, Binghampton",0.0,1.0
+"US, NY, Bronx",1.0,0.0
+"US, NY, Brooklyn",1.0,0.0
+"US, NY, Brooklyn ",1.0,0.0
+"US, NY, Brooklyn, NY",1.0,0.0
+"US, NY, Brookyn",1.0,0.0
+"US, NY, Buffalo",0.75,0.25
+"US, NY, Chattanooga",1.0,0.0
+"US, NY, Chattanooga ",1.0,0.0
+"US, NY, Chautauqua",0.0,1.0
+"US, NY, Clinton",1.0,0.0
+"US, NY, College Point",1.0,0.0
+"US, NY, Commack",1.0,0.0
+"US, NY, Cooperstown",0.0,1.0
+"US, NY, Cortland",1.0,0.0
+"US, NY, Ellenville",1.0,0.0
+"US, NY, Elmira",0.0,1.0
+"US, NY, Elmsford",1.0,0.0
+"US, NY, Farmingdale",0.9411764705882353,0.058823529411764705
+"US, NY, Finger Lakes",0.0,1.0
+"US, NY, Flushing",1.0,0.0
+"US, NY, Fredonia",1.0,0.0
+"US, NY, G",1.0,0.0
+"US, NY, Garden City",1.0,0.0
+"US, NY, Greater New York City Area",1.0,0.0
+"US, NY, Hamilton",1.0,0.0
+"US, NY, Hudson Valley",0.0,1.0
+"US, NY, Ithaca",0.6666666666666666,0.3333333333333333
+"US, NY, Jericho",1.0,0.0
+"US, NY, La Jolla",1.0,0.0
+"US, NY, Latham",1.0,0.0
+"US, NY, Levittown",1.0,0.0
+"US, NY, Liberty",1.0,0.0
+"US, NY, Liverpool",1.0,0.0
+"US, NY, Long Isalnd City",1.0,0.0
+"US, NY, Long Island",0.5,0.5
+"US, NY, Long Island City",1.0,0.0
+"US, NY, Long Island City, NY",1.0,0.0
+"US, NY, MANHATTAN",0.3333333333333333,0.6666666666666666
+"US, NY, Manhasset",1.0,0.0
+"US, NY, Manhasset Hills ",1.0,0.0
+"US, NY, Manhattan",1.0,0.0
+"US, NY, Manhattan ",1.0,0.0
+"US, NY, Manhattan and Brooklyn",1.0,0.0
+"US, NY, Middletown",1.0,0.0
+"US, NY, Moravia",0.0,1.0
+"US, NY, NEW YORK",0.8,0.2
+"US, NY, NEWYORK CITY",0.0,1.0
+"US, NY, NY",0.6,0.4
+"US, NY, NYC",1.0,0.0
+"US, NY, NYC & Garden City",1.0,0.0
+"US, NY, Napanoch",1.0,0.0
+"US, NY, New  York",1.0,0.0
+"US, NY, New  York City",1.0,0.0
+"US, NY, New Paltz",1.0,0.0
+"US, NY, New York",0.9696048632218845,0.030395136778115502
+"US, NY, New York ",1.0,0.0
+"US, NY, New York  ",1.0,0.0
+"US, NY, New York & Garden City",1.0,0.0
+"US, NY, New York City",0.9764705882352941,0.023529411764705882
+"US, NY, New York City Metro area",1.0,0.0
+"US, NY, New York Metro",1.0,0.0
+"US, NY, New York Metro ",1.0,0.0
+"US, NY, New york",1.0,0.0
+"US, NY, Niagara Falls",1.0,0.0
+"US, NY, Niagara Falls ",1.0,0.0
+"US, NY, Oneonta",0.6666666666666666,0.3333333333333333
+"US, NY, Oswego",1.0,0.0
+"US, NY, Otisville",1.0,0.0
+"US, NY, PAINTED POST",1.0,0.0
+"US, NY, Peekskill",1.0,0.0
+"US, NY, Plainview",0.0,1.0
+"US, NY, Plattsburgh",0.6666666666666666,0.3333333333333333
+"US, NY, Port Chester",1.0,0.0
+"US, NY, Port Chester ",1.0,0.0
+"US, NY, Potsdam",1.0,0.0
+"US, NY, Poughkeepsie",0.5,0.5
+"US, NY, Purchase",1.0,0.0
+"US, NY, Queens",1.0,0.0
+"US, NY, Ridgewood",0.0,1.0
+"US, NY, Rochester",0.8,0.2
+"US, NY, Rochester ",1.0,0.0
+"US, NY, Rockville Centre",1.0,0.0
+"US, NY, Ronkonkoma",1.0,0.0
+"US, NY, Rye",1.0,0.0
+"US, NY, Saint Bonaventure",1.0,0.0
+"US, NY, Saratoga Springs",1.0,0.0
+"US, NY, Schenectady",1.0,0.0
+"US, NY, Southampton",1.0,0.0
+"US, NY, St. Bonaventure",1.0,0.0
+"US, NY, Staten Island",1.0,0.0
+"US, NY, Stony Brook",1.0,0.0
+"US, NY, Syracuse",0.9166666666666666,0.08333333333333333
+"US, NY, Troy",1.0,0.0
+"US, NY, Uniondale",1.0,0.0
+"US, NY, Utica",0.0,1.0
+"US, NY, Wards Island",1.0,0.0
+"US, NY, Warsaw",1.0,0.0
+"US, NY, Watertown",0.0,1.0
+"US, NY, Western Queens",0.0,1.0
+"US, NY, White Plains",0.6666666666666666,0.3333333333333333
+"US, NY, Woodbury",1.0,0.0
+"US, NY, Yonkers",1.0,0.0
+"US, NY, Yorktown Heights",1.0,0.0
+"US, NY, albany ",1.0,0.0
+"US, NY, farmingdale",1.0,0.0
+"US, NY, huntington",1.0,0.0
+"US, NY, mumford",0.0,1.0
+"US, NY, n",1.0,0.0
+"US, NY, new",1.0,0.0
+"US, NY, new ",1.0,0.0
+"US, NY, new York",1.0,0.0
+"US, NY, new york",1.0,0.0
+"US, NY, new yorl",1.0,0.0
+"US, NY, newyork",0.5,0.5
+"US, OH, ",0.6666666666666666,0.3333333333333333
+"US, OH,  COLUMBUS",0.0,1.0
+"US, OH,  Dayton",1.0,0.0
+"US, OH, 43215",1.0,0.0
+"US, OH, : Columbus",1.0,0.0
+"US, OH, Aberdeen ",0.0,1.0
+"US, OH, Akron",1.0,0.0
+"US, OH, Ashland",1.0,0.0
+"US, OH, Athens",1.0,0.0
+"US, OH, Avon",1.0,0.0
+"US, OH, Berea",1.0,0.0
+"US, OH, Bowling Green",1.0,0.0
+"US, OH, COLUMBUS",0.0,1.0
+"US, OH, Celina",1.0,0.0
+"US, OH, Cinci",1.0,0.0
+"US, OH, Cincin",1.0,0.0
+"US, OH, Cincinnati",0.9120879120879121,0.08791208791208792
+"US, OH, Cleveland",1.0,0.0
+"US, OH, Columbia",1.0,0.0
+"US, OH, Columbus",0.9761904761904762,0.023809523809523808
+"US, OH, Coumbus",1.0,0.0
+"US, OH, Dayton",1.0,0.0
+"US, OH, Delaware",1.0,0.0
+"US, OH, Dublin",1.0,0.0
+"US, OH, Fairfield",1.0,0.0
+"US, OH, Fairlawn",1.0,0.0
+"US, OH, Groveport",0.0,1.0
+"US, OH, Hilliard",1.0,0.0
+"US, OH, Huber Heights",1.0,0.0
+"US, OH, Independence",1.0,0.0
+"US, OH, Independence ",1.0,0.0
+"US, OH, Kent",1.0,0.0
+"US, OH, Kettering",1.0,0.0
+"US, OH, Ma",1.0,0.0
+"US, OH, Marysville",1.0,0.0
+"US, OH, Mason",1.0,0.0
+"US, OH, Mayfield Village",1.0,0.0
+"US, OH, Mentor",1.0,0.0
+"US, OH, Middletown",1.0,0.0
+"US, OH, New York",1.0,0.0
+"US, OH, North Canton",1.0,0.0
+"US, OH, Oberlin",1.0,0.0
+"US, OH, Oxford",1.0,0.0
+"US, OH, Parma",1.0,0.0
+"US, OH, Ravenna",1.0,0.0
+"US, OH, Richfield",1.0,0.0
+"US, OH, Seven Hills",1.0,0.0
+"US, OH, Seville",1.0,0.0
+"US, OH, Sidney",1.0,0.0
+"US, OH, Tiffin",1.0,0.0
+"US, OH, Toledo																																																																																		",1.0,0.0
+"US, OH, USA Midwest",1.0,0.0
+"US, OH, Van Wert",1.0,0.0
+"US, OH, West Chester",0.0,1.0
+"US, OH, Westerville",1.0,0.0
+"US, OH, Youngstown",1.0,0.0
+"US, OH, cincinnati",1.0,0.0
+"US, OH, columbus",1.0,0.0
+"US, OH, ravenna",1.0,0.0
+"US, OK, ",1.0,0.0
+"US, OK, Ardmore",1.0,0.0
+"US, OK, Bethany",1.0,0.0
+"US, OK, Chickasha",0.0,1.0
+"US, OK, Edmond",1.0,0.0
+"US, OK, El Reno",1.0,0.0
+"US, OK, Langston",1.0,0.0
+"US, OK, Lawton",1.0,0.0
+"US, OK, Newcastle",0.0,1.0
+"US, OK, Norman",1.0,0.0
+"US, OK, OKLAHOMA CITY",1.0,0.0
+"US, OK, Oklahoma CIty",1.0,0.0
+"US, OK, Oklahoma City",1.0,0.0
+"US, OK, Oklahoma City ",0.0,1.0
+"US, OK, Stillwater",1.0,0.0
+"US, OK, TULSA",1.0,0.0
+"US, OK, Tulsa",1.0,0.0
+"US, OK, oklahoma city",1.0,0.0
+"US, OR, ",0.8,0.2
+"US, OR, Ashland",1.0,0.0
+"US, OR, Bend",1.0,0.0
+"US, OR, Corvallis",1.0,0.0
+"US, OR, Eugene",1.0,0.0
+"US, OR, Gladstone",1.0,0.0
+"US, OR, Hillsboro",1.0,0.0
+"US, OR, Klamath Falls",1.0,0.0
+"US, OR, Lake Oswego",1.0,0.0
+"US, OR, Milwaukie",1.0,0.0
+"US, OR, NE Portland",1.0,0.0
+"US, OR, NW Portland & Hillsboro",1.0,0.0
+"US, OR, Oregon City",1.0,0.0
+"US, OR, Porland",1.0,0.0
+"US, OR, Portand",1.0,0.0
+"US, OR, Portland",0.9923664122137404,0.007633587786259542
+"US, OR, Portland/Hillsboro",1.0,0.0
+"US, OR, SE Portland",1.0,0.0
+"US, OR, SW Portland",1.0,0.0
+"US, OR, Salem",1.0,0.0
+"US, OR, Tigard",1.0,0.0
+"US, PA, ",0.9375,0.0625
+"US, PA,  Philadelphia ",1.0,0.0
+"US, PA, ACADEMY LIFE",1.0,0.0
+"US, PA, Aaronsburg ",0.0,1.0
+"US, PA, Abbottstown ",0.0,1.0
+"US, PA, Allentown",1.0,0.0
+"US, PA, Ardmore",1.0,0.0
+"US, PA, Bala Cynwyd",1.0,0.0
+"US, PA, Beaver Falls",1.0,0.0
+"US, PA, Bensalem",1.0,0.0
+"US, PA, Berwyn",1.0,0.0
+"US, PA, Bloomsburg",1.0,0.0
+"US, PA, Brookhaven",1.0,0.0
+"US, PA, California",1.0,0.0
+"US, PA, Cannonsburg",1.0,0.0
+"US, PA, Canonsburg",1.0,0.0
+"US, PA, Center City Philadelphia",1.0,0.0
+"US, PA, Clarion",1.0,0.0
+"US, PA, Cranberry",1.0,0.0
+"US, PA, Cranberry ",1.0,0.0
+"US, PA, East Stroudsburg",1.0,0.0
+"US, PA, Edinboro ",1.0,0.0
+"US, PA, Exton",1.0,0.0
+"US, PA, Harrisburg",0.9166666666666666,0.08333333333333333
+"US, PA, Haverford",1.0,0.0
+"US, PA, Horsham",1.0,0.0
+"US, PA, Indiana",1.0,0.0
+"US, PA, Jamison",1.0,0.0
+"US, PA, King",1.0,0.0
+"US, PA, Kutztown",1.0,0.0
+"US, PA, Lancaster",1.0,0.0
+"US, PA, Lansdale",1.0,0.0
+"US, PA, Levittown",1.0,0.0
+"US, PA, Lewisburg",1.0,0.0
+"US, PA, Lock Haven",1.0,0.0
+"US, PA, Malvern",1.0,0.0
+"US, PA, Mansfield",1.0,0.0
+"US, PA, Mechanicsburg",1.0,0.0
+"US, PA, Millersville",1.0,0.0
+"US, PA, Mt. Pocono",0.0,1.0
+"US, PA, PHILADELPHIA",0.5,0.5
+"US, PA, Philadelphia",0.956140350877193,0.043859649122807015
+"US, PA, Philadelphia ",1.0,0.0
+"US, PA, Pittsburgh",0.972972972972973,0.02702702702702703
+"US, PA, Pittsburgh ",1.0,0.0
+"US, PA, Pittsburgh Area",1.0,0.0
+"US, PA, Radnor",1.0,0.0
+"US, PA, Reading",1.0,0.0
+"US, PA, Robinson Township",1.0,0.0
+"US, PA, Royersford",1.0,0.0
+"US, PA, Scranton",1.0,0.0
+"US, PA, Scranton ",1.0,0.0
+"US, PA, Selinsgrove",1.0,0.0
+"US, PA, Sharon",1.0,0.0
+"US, PA, Shippensburg",1.0,0.0
+"US, PA, Slippery Rock",1.0,0.0
+"US, PA, State College",1.0,0.0
+"US, PA, Towanda",1.0,0.0
+"US, PA, USA Northeast",1.0,0.0
+"US, PA, University Park",1.0,0.0
+"US, PA, Warrington",1.0,0.0
+"US, PA, Waynesburg",1.0,0.0
+"US, PA, West Chester",1.0,0.0
+"US, PA, Wilkes Barre",1.0,0.0
+"US, PA, berwyn",1.0,0.0
+"US, PA, harrisburg",1.0,0.0
+"US, PA, philadelphia",0.0,1.0
+"US, RI, ",1.0,0.0
+"US, RI, Kingston",1.0,0.0
+"US, RI, Middletown",0.0,1.0
+"US, RI, Providence",1.0,0.0
+"US, RI, Providence ",1.0,0.0
+"US, RI, Warwick",1.0,0.0
+"US, RI, West Greenwich",1.0,0.0
+"US, SC, ",1.0,0.0
+"US, SC, Abbeville ",0.0,1.0
+"US, SC, Abbeville  ",0.0,1.0
+"US, SC, Anderson",1.0,0.0
+"US, SC, BLUFFTON",1.0,0.0
+"US, SC, Beaufort",1.0,0.0
+"US, SC, Bluffton",1.0,0.0
+"US, SC, COLUMBIA",1.0,0.0
+"US, SC, Charleston",0.8333333333333334,0.16666666666666666
+"US, SC, Charlotte",1.0,0.0
+"US, SC, Clemson",1.0,0.0
+"US, SC, Col",1.0,0.0
+"US, SC, Columbia",0.8888888888888888,0.1111111111111111
+"US, SC, Easley",1.0,0.0
+"US, SC, Florence",1.0,0.0
+"US, SC, Fort Mill",1.0,0.0
+"US, SC, Fort Mill ",1.0,0.0
+"US, SC, GREENVILLE",1.0,0.0
+"US, SC, Gaffney",0.0,1.0
+"US, SC, Greenville",1.0,0.0
+"US, SC, Greenwood",1.0,0.0
+"US, SC, Mount Pleasant",1.0,0.0
+"US, SC, Myrtle Beach",1.0,0.0
+"US, SC, Rock Hill",1.0,0.0
+"US, SC, Seneca",1.0,0.0
+"US, SC, columbia",1.0,0.0
+"US, SC, greenville",1.0,0.0
+"US, SC, woodruff",1.0,0.0
+"US, SD, Aberdeen",1.0,0.0
+"US, SD, Aberdeen ",0.0,1.0
+"US, SD, Brookings",1.0,0.0
+"US, SD, Madison",1.0,0.0
+"US, SD, Rapid City",1.0,0.0
+"US, SD, Sioux Falls",1.0,0.0
+"US, SD, Yankton",0.5,0.5
+"US, TN, ",1.0,0.0
+"US, TN, BRENTWOOD",1.0,0.0
+"US, TN, Brentwood",1.0,0.0
+"US, TN, Chattanooga",0.0,1.0
+"US, TN, Clarksville",0.5,0.5
+"US, TN, Collegedale",1.0,0.0
+"US, TN, East Nashville",1.0,0.0
+"US, TN, Franklin",1.0,0.0
+"US, TN, Jackson",1.0,0.0
+"US, TN, Knoxville",1.0,0.0
+"US, TN, Martin",1.0,0.0
+"US, TN, Memphis",0.9166666666666666,0.08333333333333333
+"US, TN, Memphis ",1.0,0.0
+"US, TN, Morristown",0.0,1.0
+"US, TN, Murfreesboro",1.0,0.0
+"US, TN, NASHVILLE",1.0,0.0
+"US, TN, Nashville",1.0,0.0
+"US, TN, Spring Hill",1.0,0.0
+"US, TN, knoxville",1.0,0.0
+"US, TN, memphis",1.0,0.0
+"US, TX, ",0.875,0.125
+"US, TX, 77619",0.0,1.0
+"US, TX, ARLINGTON",0.0,1.0
+"US, TX, AUS/SAT",1.0,0.0
+"US, TX, AUSTIN",0.0,1.0
+"US, TX, Abbott ",0.0,1.0
+"US, TX, Abernathy ",0.0,1.0
+"US, TX, Abilene ",0.0,1.0
+"US, TX, Addison",1.0,0.0
+"US, TX, Allen",1.0,0.0
+"US, TX, Arlington",1.0,0.0
+"US, TX, Arlington ",0.0,1.0
+"US, TX, Austin",0.9597701149425287,0.040229885057471264
+"US, TX, Austin (or remote)",1.0,0.0
+"US, TX, Austin, San Antonio, Houston",1.0,0.0
+"US, TX, Austin/San Antonio",1.0,0.0
+"US, TX, Baton Rouge",1.0,0.0
+"US, TX, Brownsville ",1.0,0.0
+"US, TX, Bryan",1.0,0.0
+"US, TX, Burleson",1.0,0.0
+"US, TX, Carrizo Springs",1.0,0.0
+"US, TX, Carrollton",1.0,0.0
+"US, TX, Clear Lake",1.0,0.0
+"US, TX, Cleburne",1.0,0.0
+"US, TX, College Station",1.0,0.0
+"US, TX, Corpus Christi",1.0,0.0
+"US, TX, Corpus Christi Coastal Bend",1.0,0.0
+"US, TX, Corsicana",1.0,0.0
+"US, TX, DALLAS",0.07692307692307693,0.9230769230769231
+"US, TX, DFW",1.0,0.0
+"US, TX, DFW- Burleson",1.0,0.0
+"US, TX, Dallas",0.9807692307692307,0.019230769230769232
+"US, TX, Dallas ",1.0,0.0
+"US, TX, Dallas / Ft. Worth",1.0,0.0
+"US, TX, Dallas-Fort Worth",1.0,0.0
+"US, TX, Dallas/ Fort Worth",1.0,0.0
+"US, TX, Dallas/Fort Worth",1.0,0.0
+"US, TX, Decatur",1.0,0.0
+"US, TX, Denton",1.0,0.0
+"US, TX, Deweyville",0.0,1.0
+"US, TX, Dickinson",1.0,0.0
+"US, TX, El Paso",1.0,0.0
+"US, TX, FORT WORTH",0.0,1.0
+"US, TX, Fort Worth",0.8888888888888888,0.1111111111111111
+"US, TX, Frisco",1.0,0.0
+"US, TX, Ft. Worth",1.0,0.0
+"US, TX, Garland",1.0,0.0
+"US, TX, Grand Prairie",1.0,0.0
+"US, TX, Grapevine",1.0,0.0
+"US, TX, Grapvevine",1.0,0.0
+"US, TX, HOUSTON",0.7142857142857143,0.2857142857142857
+"US, TX, Harlingen",1.0,0.0
+"US, TX, Hidalgo",1.0,0.0
+"US, TX, Houston",0.6579925650557621,0.3420074349442379
+"US, TX, Houston ",1.0,0.0
+"US, TX, Irving",1.0,0.0
+"US, TX, Keller and Burleson",1.0,0.0
+"US, TX, Killeen",1.0,0.0
+"US, TX, Laredo",1.0,0.0
+"US, TX, Longview",1.0,0.0
+"US, TX, Lubbock",1.0,0.0
+"US, TX, McAllen",0.6666666666666666,0.3333333333333333
+"US, TX, McKinney",1.0,0.0
+"US, TX, Mesquite",1.0,0.0
+"US, TX, Midland",1.0,0.0
+"US, TX, Missouri City",1.0,0.0
+"US, TX, NW Houston",1.0,0.0
+"US, TX, New Braunfels",1.0,0.0
+"US, TX, North Dallas",1.0,0.0
+"US, TX, North Richland Hills",1.0,0.0
+"US, TX, Odessa",1.0,0.0
+"US, TX, PLANO",1.0,0.0
+"US, TX, Pasadena",1.0,0.0
+"US, TX, Plano",0.9523809523809523,0.047619047619047616
+"US, TX, Pleasanton",1.0,0.0
+"US, TX, Point Blank",1.0,0.0
+"US, TX, Prosper",1.0,0.0
+"US, TX, Richardson",1.0,0.0
+"US, TX, Richmond",1.0,0.0
+"US, TX, Round Rock",1.0,0.0
+"US, TX, SAN ANTONIO",0.0,1.0
+"US, TX, SE Houston",1.0,0.0
+"US, TX, San Antonio",0.926829268292683,0.07317073170731707
+"US, TX, San Antonio ",0.5,0.5
+"US, TX, San Marcos",1.0,0.0
+"US, TX, Southlake",1.0,0.0
+"US, TX, Spicewood",1.0,0.0
+"US, TX, Sugar Land",1.0,0.0
+"US, TX, Temple",1.0,0.0
+"US, TX, Texas",1.0,0.0
+"US, TX, The Woodlands",1.0,0.0
+"US, TX, Tyler",1.0,0.0
+"US, TX, USA Southwest",1.0,0.0
+"US, TX, Waco",1.0,0.0
+"US, TX, austin",1.0,0.0
+"US, TX, carrollton",1.0,0.0
+"US, TX, dallas",1.0,0.0
+"US, TX, plano",1.0,0.0
+"US, TX, wichita falls",1.0,0.0
+"US, UT,  Salt Lake City",0.0,1.0
+"US, UT, Beaver",1.0,0.0
+"US, UT, Cedar City",1.0,0.0
+"US, UT, DRAPER",1.0,0.0
+"US, UT, Draper",1.0,0.0
+"US, UT, Green River",1.0,0.0
+"US, UT, Hurricane",1.0,0.0
+"US, UT, Logan",1.0,0.0
+"US, UT, Murray",1.0,0.0
+"US, UT, North Salt Lake",1.0,0.0
+"US, UT, Ogden",0.0,1.0
+"US, UT, Price",1.0,0.0
+"US, UT, Provo",1.0,0.0
+"US, UT, Salt Lake City",1.0,0.0
+"US, UT, Sandy",1.0,0.0
+"US, VA, ",0.75,0.25
+"US, VA, Accomac ",0.0,1.0
+"US, VA, Alexandria",1.0,0.0
+"US, VA, Arlington",1.0,0.0
+"US, VA, Ashburn",1.0,0.0
+"US, VA, Blacksburg",1.0,0.0
+"US, VA, Carrollton",1.0,0.0
+"US, VA, Charlottesville",1.0,0.0
+"US, VA, Chesapeake",1.0,0.0
+"US, VA, Chester",1.0,0.0
+"US, VA, Crystal City",1.0,0.0
+"US, VA, Danville",1.0,0.0
+"US, VA, Dulles",1.0,0.0
+"US, VA, Emporia",1.0,0.0
+"US, VA, Ettrick",1.0,0.0
+"US, VA, Fairfax",1.0,0.0
+"US, VA, Fairfax Area",1.0,0.0
+"US, VA, Fredericksburg",1.0,0.0
+"US, VA, Hampton",1.0,0.0
+"US, VA, Harrisonburg",1.0,0.0
+"US, VA, Herndon",0.9090909090909091,0.09090909090909091
+"US, VA, Leesburg",1.0,0.0
+"US, VA, MANASSAS",1.0,0.0
+"US, VA, Manassas",1.0,0.0
+"US, VA, Marshall",0.0,1.0
+"US, VA, McLean",1.0,0.0
+"US, VA, Mclean",1.0,0.0
+"US, VA, Newport News",1.0,0.0
+"US, VA, Norfolk",1.0,0.0
+"US, VA, Northern Virginia Area",1.0,0.0
+"US, VA, Radford",1.0,0.0
+"US, VA, Reston",1.0,0.0
+"US, VA, Reston ",1.0,0.0
+"US, VA, Richmond",1.0,0.0
+"US, VA, Stafford",1.0,0.0
+"US, VA, Sterling",1.0,0.0
+"US, VA, Tysons Corner",1.0,0.0
+"US, VA, Vienna",1.0,0.0
+"US, VA, Virginia Beach",0.9894736842105263,0.010526315789473684
+"US, VA, Winchester",1.0,0.0
+"US, VA, charlottesville",1.0,0.0
+"US, VA, stafford",0.0,1.0
+"US, VA, woodbridge ",0.0,1.0
+"US, VT, Burlington",1.0,0.0
+"US, VT, Northfield",1.0,0.0
+"US, VT, Richmond",1.0,0.0
+"US, WA, ",0.25,0.75
+"US, WA, ARDENVOIR WA  ",1.0,0.0
+"US, WA, Aberdeen ",0.0,1.0
+"US, WA, Bellevue",0.7272727272727273,0.2727272727272727
+"US, WA, Bellingham",1.0,0.0
+"US, WA, Bremerton",1.0,0.0
+"US, WA, Burlington",1.0,0.0
+"US, WA, Camas",1.0,0.0
+"US, WA, Cheney",1.0,0.0
+"US, WA, DC",1.0,0.0
+"US, WA, District of Columbia",1.0,0.0
+"US, WA, Ellensburg",1.0,0.0
+"US, WA, Everett",1.0,0.0
+"US, WA, Federal Way",1.0,0.0
+"US, WA, Granger",1.0,0.0
+"US, WA, Hanford",1.0,0.0
+"US, WA, Kennewick",1.0,0.0
+"US, WA, Kent",1.0,0.0
+"US, WA, Kirkland",1.0,0.0
+"US, WA, Mercer Island",1.0,0.0
+"US, WA, Olympia",1.0,0.0
+"US, WA, Pullman",1.0,0.0
+"US, WA, Puyallup",1.0,0.0
+"US, WA, Redmond",0.9333333333333333,0.06666666666666667
+"US, WA, Richland",1.0,0.0
+"US, WA, Seattle",0.8947368421052632,0.10526315789473684
+"US, WA, Seattle ",1.0,0.0
+"US, WA, Seattle Eastside",1.0,0.0
+"US, WA, Skagit County",1.0,0.0
+"US, WA, Spokane",1.0,0.0
+"US, WA, Tacoma",1.0,0.0
+"US, WA, Vancouver",1.0,0.0
+"US, WA, Washington",1.0,0.0
+"US, WA, Washington, DC",1.0,0.0
+"US, WA, Woodinville",1.0,0.0
+"US, WA, Yakima",1.0,0.0
+"US, WA, seattle",1.0,0.0
+"US, WI, ",1.0,0.0
+"US, WI, :  Madison",1.0,0.0
+"US, WI, Abbotsford ",0.0,1.0
+"US, WI, Appleton",0.0,1.0
+"US, WI, Brookfield",1.0,0.0
+"US, WI, Cedarburg",1.0,0.0
+"US, WI, Delavan",1.0,0.0
+"US, WI, Eau Claire",1.0,0.0
+"US, WI, Elroy",1.0,0.0
+"US, WI, Franksville",1.0,0.0
+"US, WI, Greater Milwaukee",1.0,0.0
+"US, WI, Green Bay",1.0,0.0
+"US, WI, Greenwood",1.0,0.0
+"US, WI, Hartland",1.0,0.0
+"US, WI, Jackson",1.0,0.0
+"US, WI, Janesville",1.0,0.0
+"US, WI, Kenosha",1.0,0.0
+"US, WI, LaCrosse",1.0,0.0
+"US, WI, Madison",1.0,0.0
+"US, WI, Marinette",1.0,0.0
+"US, WI, Menomonie",0.6666666666666666,0.3333333333333333
+"US, WI, Milwaukee",1.0,0.0
+"US, WI, Milwaukee/Waukesha",1.0,0.0
+"US, WI, Mundelein",1.0,0.0
+"US, WI, Neenah",1.0,0.0
+"US, WI, Oshkosh",1.0,0.0
+"US, WI, Pittsville",1.0,0.0
+"US, WI, Racine Area",1.0,0.0
+"US, WI, River Falls",1.0,0.0
+"US, WI, Sheboygan",0.0,1.0
+"US, WI, Spooner",1.0,0.0
+"US, WI, St. Cloud",1.0,0.0
+"US, WI, Stevens Point",1.0,0.0
+"US, WI, Union Grove",1.0,0.0
+"US, WI, WAUKESHA",1.0,0.0
+"US, WI, Waukesha",1.0,0.0
+"US, WI, Wausau",1.0,0.0
+"US, WI, West Allis",1.0,0.0
+"US, WI, Western Wisconsin ",1.0,0.0
+"US, WI, Windsor",1.0,0.0
+"US, WI, Wisconsin",1.0,0.0
+"US, WI, milwaukee",1.0,0.0
+"US, WV, Athens",1.0,0.0
+"US, WV, Beckley",1.0,0.0
+"US, WV, Buckhannon",1.0,0.0
+"US, WV, Charleston",1.0,0.0
+"US, WV, Fairmont",1.0,0.0
+"US, WV, Falling Waters",1.0,0.0
+"US, WV, Huntington",1.0,0.0
+"US, WV, Hurricane",1.0,0.0
+"US, WV, Jane Lew",1.0,0.0
+"US, WV, Morgantown",1.0,0.0
+"US, WV, Northern WV",1.0,0.0
+"US, WV, Philippi",1.0,0.0
+"US, WV, Shepherdstown",1.0,0.0
+"US, WY, Casper",1.0,0.0
+"US, WY, Cheyenne",1.0,0.0
+"US, WY, Laramie",1.0,0.0
+"VI, , ",1.0,0.0
+"VI, , Multiple",1.0,0.0
+"VI, , St. Thomas",1.0,0.0
+"VN, , Ho Chi Minh",1.0,0.0
+"VN, 64, ",1.0,0.0
+"VN, 65, h",1.0,0.0
+"ZA, , ",1.0,0.0
+"ZA, , Johannesburg",1.0,0.0
+"ZA, EC, East London",1.0,0.0
+"ZA, EC, Port Elizabeth",1.0,0.0
+"ZA, GT, ",1.0,0.0
+"ZA, GT, Benoni",1.0,0.0
+"ZA, GT, Denver",1.0,0.0
+"ZA, GT, Four Ways",1.0,0.0
+"ZA, GT, JOHANNESBURG",1.0,0.0
+"ZA, GT, Johannesburg",1.0,0.0
+"ZA, GT, Pretoria",1.0,0.0
+"ZA, GT, Rivonia",1.0,0.0
+"ZA, GT, Soweto",1.0,0.0
+"ZA, GT, Tembisa",1.0,0.0
+"ZA, NL, DURBAN",1.0,0.0
+"ZA, NL, Durban",1.0,0.0
+"ZA, NL, Pietermaritzburg",1.0,0.0
+"ZA, NL, Richards Bay",1.0,0.0
+"ZA, WC, Cape Town",1.0,0.0
+"ZA, WC, Oudtshoorn",0.0,1.0
+"ZA, WC, Stellenbosch",1.0,0.0
+"ZM, , ",1.0,0.0
